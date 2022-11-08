@@ -1,4 +1,5 @@
 import csv
+import re
 import requests
 from bs4 import BeautifulSoup
 
@@ -26,6 +27,7 @@ def scrape(year):
     soup = BeautifulSoup(page.content, "html.parser")
 
     tables = soup.findAll('table')
+    results_tables = []
 
     for table in tables:
         ths = table.find_all('th')
@@ -33,10 +35,10 @@ def scrape(year):
         if headings:
             if 'R/O' in headings[0]:
                 print('Found results table!')
-                results_table = table
+                results_tables.append(table)
                 break
 
-    table = results_table
+    table = results_tables[-1]
     rows = []
     data_rows = table.find_all('tr')
     headers = [header.text.strip() for header in table.find_all(scope="col")]
@@ -58,6 +60,12 @@ def scrape(year):
         # Remove data arrays that are empty
         if len(beautified_value) == 0:
             continue
+
+        # Remove any citations that have made it through
+        for item in beautified_value:
+            current_index = beautified_value.index(item)
+            beautified_value[current_index] = re.sub(r'\[.*\]', '', item)
+
         rows.append(beautified_value)
 
     for entry in rows:
@@ -68,7 +76,6 @@ def scrape(year):
     with open('euro_pop.csv', 'a', newline="", encoding="utf-8") as output:
         writer = csv.writer(output)
         writer.writerows(rows)
-
 
 if __name__ == '__main__':
     go()
