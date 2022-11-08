@@ -15,8 +15,9 @@ def go():
         writer.writerow(header)
 
     while year_counter <= most_recent_year:
-        print("Scraping year: " + str(year_counter))
-        scrape(year_counter)
+        if year_counter != 2020:
+            print("Scraping year: " + str(year_counter))
+            scrape(year_counter)
         year_counter += 1
 
 
@@ -36,7 +37,6 @@ def scrape(year):
             if 'R/O' in headings[0]:
                 print('Found results table!')
                 results_tables.append(table)
-                break
 
     table = results_tables[-1]
     rows = []
