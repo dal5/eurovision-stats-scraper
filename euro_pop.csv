@@ -19,7 +19,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1957,4,Italy,Nunzio Gallo,"""Corde della mia chitarra""",Italian,7,6
 1957,5,Austria,Bob Martin,"""Wohin, kleines Pony?""",German,3,10
 1957,6,Netherlands,Corry Brokken,"""Net als toen""",Dutch,31,1
-1957,7,Germany,Margot Hielscher,"""Telefon, Telefon""",German[b],8,4
+1957,7,Germany,Margot Hielscher,"""Telefon, Telefon""",German,8,4
 1957,8,France,Paule Desjardins,"""La belle amour""",French,17,2
 1957,9,Denmark,Birthe Wilke and Gustav Winckler,"""Skibet skal sejle i nat""",Danish,10,3
 1957,10,Switzerland,Lys Assia,"""L'enfant que j'étais""",French,5,8
@@ -49,12 +49,12 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1960,3,Luxembourg,Camillo Felgen,"""So laang we's du do bast""",Luxembourgish,1,13
 1960,4,Denmark,Katy Bødtger,"""Det var en yndig tid""",Danish,4,10
 1960,5,Belgium,Fud Leclerc,"""Mon amour pour toi""",French,9,6
-1960,6,Norway,Nora Brockstedt,"""Voi Voi""",Norwegian[a],11,4
+1960,6,Norway,Nora Brockstedt,"""Voi Voi""",Norwegian,11,4
 1960,7,Austria,Harry Winter,"""Du hast mich so fasziniert""",German,6,7
 1960,8,Monaco,François Deguelt,"""Ce soir-là""",French,15,3
 1960,9,Switzerland,Anita Traversi,"""Cielo e terra""",Italian,5,8
 1960,10,Netherlands,Rudi Carrell,"""Wat een geluk""",Dutch,2,12
-1960,11,Germany,Wyn Hoop,"""Bonne nuit ma chérie""",German[b],11,4
+1960,11,Germany,Wyn Hoop,"""Bonne nuit ma chérie""",German,11,4
 1960,12,Italy,Renato Rascel,"""Romantica""",Italian,5,8
 1960,13,France,Jacqueline Boyer,"""Tom Pillibi""",French,32,1
 1961,1,Spain,Conchita Bautista,"""Estando contigo""",Spanish,8,9
@@ -147,7 +147,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1966,6,Norway,Åse Kleveland,"""Intet er nytt under solen""",Norwegian,15,3
 1966,7,Finland,Ann-Christine Nyström,"""Playboy""",Finnish,7,10
 1966,8,Portugal,Madalena Iglésias,"""Ele e ela""",Portuguese,6,13
-1966,9,Austria,Udo Jürgens,"""Merci, Chérie""",German[a],31,1
+1966,9,Austria,Udo Jürgens,"""Merci, Chérie""",German,31,1
 1966,10,Sweden,Lill Lindfors and Svante Thuresson,"""Nygammal vals""",Swedish,16,2
 1966,11,Spain,Raphael,"""Yo soy aquél""",Spanish,9,7
 1966,12,Switzerland,Madeleine Pascal,"""Ne vois-tu pas ?""",French,12,6
@@ -256,10 +256,10 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1972,17,Luxembourg,Vicky Leandros,"""Après toi""",French,128,1
 1972,18,Netherlands,Sandra and Andres,"""Als het om de liefde gaat""",Dutch,106,4
 1973,1,Finland,Marion Rung,"""Tom Tom Tom""",English,93,6
-1973,2,Belgium,Nicole and Hugo,"""Baby, Baby""",Dutch[a],58,17
+1973,2,Belgium,Nicole and Hugo,"""Baby, Baby""",Dutch,58,17
 1973,3,Portugal,Fernando Tordo,"""Tourada""",Portuguese,80,10
 1973,4,Germany,Gitte,"""Junger Tag""",German,85,8
-1973,5,Norway,Bendik Singers,"""It's Just a Game""","English, French[b]",89,7
+1973,5,Norway,Bendik Singers,"""It's Just a Game""","English, French",89,7
 1973,6,Monaco,Marie,"""Un train qui part""",French,85,8
 1973,7,Spain,Mocedades,"""Eres tú""",Spanish,125,2
 1973,8,Switzerland,Patrick Juvet,"""Je vais me marier, Marie""",French,79,12
@@ -280,7 +280,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1974,6,Israel,Poogy,"""Natati La Khayay"" (נתתי לה חיי)",Hebrew,11,7
 1974,7,Yugoslavia,Korni Grupa,"""Generacija '42"" (Генерација '42)",Serbo-Croatian,6,12
 1974,8,Sweden,ABBA,"""Waterloo""",English,24,1
-1974,9,Luxembourg,Ireen Sheer,"""Bye Bye I Love You""",French[b],14,4
+1974,9,Luxembourg,Ireen Sheer,"""Bye Bye I Love You""",French,14,4
 1974,10,Monaco,Romuald,"""Celui qui reste et celui qui s'en va""",French,14,4
 1974,11,Belgium,Jacques Hustin,"""Fleur de liberté""",French,10,9
 1974,12,Netherlands,Mouth and MacNeal,"""I See a Star""",English,15,3
@@ -329,7 +329,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1977,1,Ireland,The Swarbriggs Plus Two,"""It's Nice to Be in Love Again""",English,119,3
 1977,2,Monaco,Michèle Torr,"""Une petite française""",French,96,4
 1977,3,Netherlands,Heddy Lester,"""De mallemolen""",Dutch,35,12
-1977,4,Austria,Schmetterlinge,"""Boom Boom Boomerang""",German[a],11,17
+1977,4,Austria,Schmetterlinge,"""Boom Boom Boomerang""",German,11,17
 1977,5,Norway,Anita Skorgan,"""Casanova""",Norwegian,18,14
 1977,6,Germany,Silver Convention,"""Telegram""",English,55,8
 1977,7,Luxembourg,Anne-Marie B,"""Frère Jacques""",French,17,16
@@ -350,7 +350,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1978,4,Finland,Seija Simola,"""Anna rakkaudelle tilaisuus""",Finnish,2,18=
 1978,5,Portugal,Gemini,"""Dai li dou""",Portuguese,5,17
 1978,6,France,Joël Prévost,"""Il y aura toujours des violons""",French,119,3
-1978,7,Spain,José Vélez,"""Bailemos un vals""",Spanish[a],65,9=
+1978,7,Spain,José Vélez,"""Bailemos un vals""",Spanish,65,9=
 1978,8,United Kingdom,Co-Co,"""The Bad Old Days""",English,61,11
 1978,9,Switzerland,Carole Vinci,"""Vivre""",French,65,9=
 1978,10,Belgium,Jean Vallée,"""L'amour ça fait chanter la vie""",French,125,2
@@ -362,7 +362,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1978,16,Denmark,Mabel,"""Boom Boom""",Danish,13,16
 1978,17,Luxembourg,Baccara,"""Parlez-vous français ?""",French,73,7
 1978,18,Israel,Izhar Cohen and the Alphabeta,"""A-Ba-Ni-Bi"" (א-ב-ני-בי)",Hebrew,157,1
-1978,19,Austria,Springtime,"""Mrs. Caroline Robinson""",German[b],14,15
+1978,19,Austria,Springtime,"""Mrs. Caroline Robinson""",German,14,15
 1978,20,Sweden,Björn Skifs,"""Det blir alltid värre framåt natten""",Swedish,26,14
 1979,1,Portugal,Manuela Bravo,"""Sobe, sobe, balão sobe""",Portuguese,64,9
 1979,2,Italy,Matia Bazar,"""Raggio di luna""",Italian,27,15
@@ -393,10 +393,10 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1980,8,Sweden,Tomas Ledin,"""Just nu!""",Swedish,47,10
 1980,9,Switzerland,Paola,"""Cinéma""",French,104,4
 1980,10,Finland,Vesa-Matti Loiri,"""Huilumies""",Finnish,6,19
-1980,11,Norway,Sverre Kjelsberg and Mattis Hætta,"""Sámiid ædnan""",Norwegian[a],15,16
+1980,11,Norway,Sverre Kjelsberg and Mattis Hætta,"""Sámiid ædnan""",Norwegian,15,16
 1980,12,Germany,Katja Ebstein,"""Theater""",German,128,2
 1980,13,United Kingdom,Prima Donna,"""Love Enough for Two""",English,106,3
-1980,14,Portugal,José Cid,"""Um grande, grande amor""",Portuguese[b],71,7
+1980,14,Portugal,José Cid,"""Um grande, grande amor""",Portuguese,71,7
 1980,15,Netherlands,Maggie MacNeal,"""Amsterdam""",Dutch,93,5
 1980,16,France,Profil,"""Hé, hé M'sieurs dames""",French,45,11
 1980,17,Ireland,Johnny Logan,"""What's Another Year""",English,143,1
@@ -463,21 +463,21 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1984,1,Sweden,Herreys,"""Diggi-Loo Diggi-Ley""",Swedish,145,1
 1984,2,Luxembourg,Sophie Carle,"""100% d'amour""",French,39,10
 1984,3,France,Annick Thoumazeau,"""Autant d'amoureux que d'étoiles""",French,61,8
-1984,4,Spain,Bravo,"""Lady, Lady""",Spanish[a],106,3
+1984,4,Spain,Bravo,"""Lady, Lady""",Spanish,106,3
 1984,5,Norway,Dollie de Luxe,"""Lenge leve livet""",Norwegian,29,17
 1984,6,United Kingdom,Belle and the Devotions,"""Love Games""",English,63,7
 1984,7,Cyprus,Andy Paul,"""Anna Maria Lena"" (Άννα Μαρία Λένα)",Greek,31,15
-1984,8,Belgium,Jacques Zegers,"""Avanti la vie""",French[b],70,5
+1984,8,Belgium,Jacques Zegers,"""Avanti la vie""",French,70,5
 1984,9,Ireland,Linda Martin,"""Terminal 3""",English,137,2
 1984,10,Denmark,Hot Eyes,"""Det' lige det""",Danish,101,4
 1984,11,Netherlands,Maribelle,"""Ik hou van jou""",Dutch,34,13
-1984,12,Yugoslavia,Vlado and Isolda,"""Ciao, amore""",Serbo-Croatian[b],26,18
+1984,12,Yugoslavia,Vlado and Isolda,"""Ciao, amore""",Serbo-Croatian,26,18
 1984,13,Austria,Anita,"""Einfach weg""",German,5,19
 1984,14,Germany,Mary Roos,"""Aufrecht geh'n""",German,34,13
 1984,15,Turkey,"Beş Yıl Önce, On Yıl Sonra","""Halay""",Turkish,37,12
 1984,16,Finland,Kirka,"""Hengaillaan""",Finnish,46,9
 1984,17,Switzerland,Rainy Day,"""Welche Farbe hat der Sonnenschein?""",German,30,16
-1984,18,Italy,Alice and Franco Battiato,"""I treni di Tozeur""",Italian[c],70,5
+1984,18,Italy,Alice and Franco Battiato,"""I treni di Tozeur""",Italian,70,5
 1984,19,Portugal,Maria Guinot,"""Silêncio e tanta gente""",Portuguese,38,11
 1985,1,Ireland,Maria Christian,"""Wait Until the Weekend Comes""",English,91,6
 1985,2,Finland,Sonja Lumme,"""Eläköön elämä""",Finnish,58,9
@@ -505,7 +505,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1986,5,United Kingdom,Ryder,"""Runner in the Night""",English,72,7
 1986,6,Iceland,ICY,"""Gleðibankinn""",Icelandic,19,16
 1986,7,Netherlands,Frizzle Sizzle,"""Alles heeft ritme""",Dutch,40,13
-1986,8,Turkey,Klips ve Onlar,"""Halley""",Turkish[a],53,9
+1986,8,Turkey,Klips ve Onlar,"""Halley""",Turkish,53,9
 1986,9,Spain,Cadillac,"""Valentino""",Spanish,51,10
 1986,10,Switzerland,Daniela Simons,"""Pas pour moi""",French,140,2
 1986,11,Israel,Moti Giladi and Sarai Tzuriel,"""Yavo Yom"" (יבוא יום)",Hebrew,7,19
@@ -522,7 +522,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1987,2,Israel,Datner and Kushnir,"""Shir Habatlanim"" (שיר הבטלנים)",Hebrew,73,8
 1987,3,Austria,Gary Lux,"""Nur noch Gefühl""",German,8,20
 1987,4,Iceland,Halla Margrét,"""Hægt og hljótt""",Icelandic,28,16
-1987,5,Belgium,Liliane Saint-Pierre,"""Soldiers of Love""",Dutch[a],56,11
+1987,5,Belgium,Liliane Saint-Pierre,"""Soldiers of Love""",Dutch,56,11
 1987,6,Sweden,Lotta Engberg,"""Boogaloo""",Swedish,50,12
 1987,7,Italy,Umberto Tozzi and Raf,"""Gente di mare""",Italian,103,3
 1987,8,Portugal,Nevada,"""Neste barco à vela""",Portuguese,15,18
@@ -538,7 +538,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1987,18,Finland,Vicky Rosti and Boulevard,"""Sata salamaa""",Finnish,32,15
 1987,19,Denmark,Anne-Cathrine Herdorf and Bandjo,"""En lille melodi""",Danish,83,5
 1987,20,Ireland,Johnny Logan,"""Hold Me Now""",English,172,1
-1987,21,Yugoslavia,Novi fosili,"""Ja sam za ples"" (Ја сам за плес)",Serbo-Croatian[a],92,4
+1987,21,Yugoslavia,Novi fosili,"""Ja sam za ples"" (Ја сам за плес)",Serbo-Croatian,92,4
 1987,22,Switzerland,Carol Rich,"""Moitié, moitié""",French,26,17
 1988,1,Iceland,Beathoven,"""Þú og þeir (Sókrates)""",Icelandic,20,16
 1988,2,Sweden,Tommy Körberg,"""Stad i ljus""",Swedish,52,12
@@ -601,8 +601,8 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1990,16,Portugal,Nucha,"""Há sempre alguém""",Portuguese,9,20
 1990,17,Ireland,Liam Reilly,"""Somewhere in Europe""",English,132,2
 1990,18,Sweden,Edin-Ådahl,"""Som en vind""",Swedish,24,16
-1990,19,Italy,Toto Cutugno,"""Insieme: 1992""",Italian[b],149,1
-1990,20,Austria,Simone,"""Keine Mauern mehr""",German[c],58,10
+1990,19,Italy,Toto Cutugno,"""Insieme: 1992""",Italian,149,1
+1990,20,Austria,Simone,"""Keine Mauern mehr""",German,58,10
 1990,21,Cyprus,Haris Anastasiou,"""Milas poli"" (Μιλάς πολύ)",Greek,36,14
 1990,22,Finland,Beat,"""Fri?""",Swedish,8,21
 1991,1,Yugoslavia,Baby Doll,"""Brazil"" (Бразил)",Serbo-Croatian,1,21
@@ -632,7 +632,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1992,3,Israel,Dafna,"""Ze Rak Sport"" (זה רק ספורט)",Hebrew,85,6
 1992,4,Turkey,Aylin Vatankoş,"""Yaz Bitti""",Turkish,17,19
 1992,5,Greece,Cleopatra,"""Olou tou kosmou i Elpida"" (Όλου του κόσμου η Ελπίδα)",Greek,94,5
-1992,6,France,Kali,Monte la riviè [fr],"French, Antillean Creole",73,8
+1992,6,France,Kali,Monte la riviè ,"French, Antillean Creole",73,8
 1992,7,Sweden,Christer Björkman,"""I morgon är en annan dag""",Swedish,9,22
 1992,8,Portugal,Dina,"""Amor d'água fresca""",Portuguese,26,17
 1992,9,Cyprus,Evridiki,"""Teriazoume"" (Ταιριάζουμε)",Greek,57,11
@@ -658,7 +658,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1993,6,Greece,Katy Garbi,"""Ellada, hora tou fotos"" (Ελλάδα, χώρα του φωτός)",Greek,64,9
 1993,7,Belgium,Barbara,"""Iemand als jij""",Dutch,3,25
 1993,8,Malta,William Mangion,"""This Time""",English,69,8
-1993,9,Iceland,Inga [is],"""Þá veistu svarið""",Icelandic,42,13
+1993,9,Iceland,Inga ,"""Þá veistu svarið""",Icelandic,42,13
 1993,10,Austria,Tony Wegas,"""Maria Magdalena""",German,32,14
 1993,11,Portugal,Anabela,"""A cidade (até ser dia)""",Portuguese,60,10
 1993,12,France,Patrick Fiori,"""Mama Corsica""","French, Corsican",121,4
@@ -676,7 +676,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1993,24,Israel,Lehakat Shiru,"""Shiru"" (שירו)","Hebrew, English",4,24
 1993,25,Norway,Silje Vige,"""Alle mine tankar""",Norwegian,120,5
 1994,1,Sweden,Marie Bergman and Roger Pontare,"""Stjärnorna""",Swedish,48,13
-1994,2,Finland,CatCat,"""Bye Bye Baby""",Finnish[b],11,22
+1994,2,Finland,CatCat,"""Bye Bye Baby""",Finnish,11,22
 1994,3,Ireland,Paul Harrington and Charlie McGettigan,"""Rock 'n' Roll Kids""",English,226,1
 1994,4,Cyprus,Evridiki,"""Ime anthropos ki ego"" (Είμαι άνθρωπος κι εγώ)",Greek,51,11
 1994,5,Iceland,Sigga,"""Nætur""",Icelandic,49,12
@@ -688,7 +688,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1994,11,Romania,Dan Bittman,"""Dincolo de nori""",Romanian,14,21
 1994,12,Malta,Moira Stafrace and Christopher Scicluna,"""More than Love""",English,97,5
 1994,13,Netherlands,Willeke Alberti,"""Waar is de zon""",Dutch,4,23
-1994,14,Germany,Mekado,"""Wir geben 'ne Party""",German[b],128,3
+1994,14,Germany,Mekado,"""Wir geben 'ne Party""",German,128,3
 1994,15,Slovakia,Martin Ďurinda and Tublatanka,"""Nekonečná pieseň""",Slovak,15,19
 1994,16,Lithuania,Ovidijus Vyšniauskas,"""Lopšinė mylimai""",Lithuanian,0,25
 1994,17,Norway,Elisabeth Andreasson and Jan Werner Danielsen,"""Duett""",Norwegian,76,6
@@ -722,40 +722,34 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1995,20,Slovenia,Darja Švajger,"""Prisluhni mi""",Slovene,84,7
 1995,21,Israel,Liora,"""Amen"" (אמן)",Hebrew,81,8
 1995,22,Malta,Mike Spiteri,"""Keep Me in Mind""",English,76,10
-1995,23,Greece,Elina Konstantopoulou,"""Pia prosefhi"" (Ποιά προσευχή)",Greek[a],68,12
-1996,1,Austria,George Nussbaumer,"""Weil's dr guat got""",Vorarlbergish,80,6
-1996,2,Bosnia and Herzegovina,Amila Glamočak,"""Za našu ljubav""",Bosnian,29,21
-1996,3,Belgium,Lisa del Bo,"""Liefde is een kaartspel""",Dutch,45,12
-1996,4,Switzerland,Kathy Leander,"""Mon cœur l'aime""",French,67,8
-1996,5,Cyprus,Constantinos,"""Mono gia mas"" (Μόνο για μας)",Greek,42,15
-1996,6,Germany,Leon,"""Planet of Blue""",German,24,24
-1996,7,Denmark,Dorthe Andersen and Martin Loft,"""Kun med dig""",Danish,22,25
-1996,8,Estonia,Maarja-Liis Ilus and Ivo Linna,"""Kaelakee hääl""",Estonian,106,5
-1996,9,Spain,Antonio Carbonell,"""¡Ay, qué deseo!""",Spanish,43,14
-1996,10,Finland,Jasmine,"""Niin kaunis on taivas""",Finnish,26,22
-1996,11,France,Dan Ar Braz and l'Héritage des Celtes,"""Diwanit bugale""",Breton,55,11
-1996,12,United Kingdom,Gina G,"""Ooh Aah... Just a Little Bit""",English,153,3
-1996,13,Greece,Marianna Efstratiou,"""Emis forame to himona anixiatika""(Εμείς φοράμε το χειμώνα ανοιξιάτικα)",Greek,45,12
-1996,14,Croatia,Maja Blagdan,"""Sveta ljubav""",Croatian,30,19
-1996,15,Hungary,Gjon Delhusa,"""Fortuna""",Hungarian,26,23
-1996,16,Ireland,Eimear Quinn,"""The Voice""",English,198,2
-1996,17,Israel,Galit Bell,"""Shalom Olam"" (שלום עולם)",Hebrew,12,28
-1996,18,Iceland,Anna Mjöll,"""Sjúbídú""",Icelandic,59,10
-1996,19,Macedonia,Kaliopi,"""Samo ti"" (Само ти)",Macedonian,14,26
-1996,20,Malta,Miriam Christine,"""In a Woman's Heart""",English,138,4
-1996,21,Netherlands,Maxine and Franklin Brown,"""De eerste keer""",Dutch,63,9
-1996,22,Poland,Kasia Kowalska,"""Chcę znać swój grzech...""",Polish,42,15
-1996,23,Portugal,Lúcia Moniz,"""O meu coração não tem cor""",Portuguese,32,18
-1996,24,Romania,Monica Anghel and Sincron,"""Rugă pentru pacea lumii""",Romanian,11,29
-1996,25,Russia,Andrey Kosinskiy,"""Ya eto ya"" (Я это я)",Russian,14,26
-1996,26,Sweden,One More Time,"""Den vilda""",Swedish,227,1
-1996,27,Slovenia,Regina,"""Dan najlepših sanj""",Slovene,30,19
-1996,28,Slovakia,Marcel Palonder,"""Kým nás máš""",Slovak,38,17
-1996,29,Turkey,Şebnem Paker,"""Beşinci Mevsim""",Turkish,69,7
+1995,23,Greece,Elina Konstantopoulou,"""Pia prosefhi"" (Ποιά προσευχή)",Greek,68,12
+1996,1,Turkey,Şebnem Paker,"""Beşinci Mevsim""",Turkish,57,12
+1996,2,United Kingdom,Gina G,"""Ooh Aah... Just a Little Bit""",English,77,8
+1996,3,Spain,Antonio Carbonell,"""¡Ay, qué deseo!""",Spanish,17,20
+1996,4,Portugal,Lúcia Moniz,"""O meu coração não tem cor""",Portuguese,92,6
+1996,5,Cyprus,Constantinos,"""Mono gia mas"" (Μόνο για μας)",Greek,72,9
+1996,6,Malta,Miriam Christine,"""In a Woman's Heart""",English,68,10
+1996,7,Croatia,Maja Blagdan,"""Sveta ljubav""",Croatian,98,4
+1996,8,Austria,George Nussbaumer,"""Weil's dr guat got""",Vorarlbergish,68,10
+1996,9,Switzerland,Kathy Leander,"""Mon cœur l'aime""",French,22,16
+1996,10,Greece,Marianna Efstratiou,"""Emis forame to himona anixiatika""(Εμείς φοράμε το χειμώνα ανοιξιάτικα)",Greek,36,14
+1996,11,Estonia,Maarja-Liis Ilus and Ivo Linna,"""Kaelakee hääl""",Estonian,94,5
+1996,12,Norway,Elisabeth Andreassen,"""I evighet""",Norwegian,114,2
+1996,13,France,Dan Ar Braz and l'Héritage des Celtes,"""Diwanit bugale""",Breton,18,19
+1996,14,Slovenia,Regina,"""Dan najlepših sanj""",Slovene,16,21
+1996,15,Netherlands,Maxine and Franklin Brown,"""De eerste keer""",Dutch,78,7
+1996,16,Belgium,Lisa del Bo,"""Liefde is een kaartspel""",Dutch,22,16
+1996,17,Ireland,Eimear Quinn,"""The Voice""",English,162,1
+1996,18,Finland,Jasmine,"""Niin kaunis on taivas""",Finnish,9,23
+1996,19,Iceland,Anna Mjöll,"""Sjúbídú""",Icelandic,51,13
+1996,20,Poland,Kasia Kowalska,"""Chcę znać swój grzech...""",Polish,31,15
+1996,21,Bosnia and Herzegovina,Amila Glamočak,"""Za našu ljubav""",Bosnian,13,22
+1996,22,Slovakia,Marcel Palonder,"""Kým nás máš""",Slovak,19,18
+1996,23,Sweden,One More Time,"""Den vilda""",Swedish,100,3
 1997,1,Cyprus,Hara and Andreas Konstantinou,"""Mana mou"" (Μάνα μου)",Greek,98,5
 1997,2,Turkey,Şebnem Paker and Grup Ethnic,"""Dinle""",Turkish,121,3
-1997,3,Norway,Tor Endresen,"""San Francisco""",Norwegian[c],0,24
-1997,4,Austria,Bettina Soriat,"""One Step""",German[c],12,21
+1997,3,Norway,Tor Endresen,"""San Francisco""",Norwegian,0,24
+1997,4,Austria,Bettina Soriat,"""One Step""",German,12,21
 1997,5,Ireland,Marc Roberts,"""Mysterious Woman""",English,157,2
 1997,6,Slovenia,Tanja Ribič,"""Zbudi se""",Slovene,60,10
 1997,7,Switzerland,Barbara Berta,"""Dentro di me""",Italian,5,22
@@ -822,16 +816,16 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1999,18,Austria,Bobbie Singer,"""Reflection""",English,65,10
 1999,19,Israel,Eden,"""Yom Huledet (Happy Birthday)"" (יום הולדת)","English, Hebrew",93,5
 1999,20,Malta,Times Three,"""Believe 'n Peace""",English,32,15
-1999,21,Germany,Sürpriz,"""Reise nach Jerusalem – Kudüs'e Seyahat""","German, Turkish, English[f]",140,3
+1999,21,Germany,Sürpriz,"""Reise nach Jerusalem – Kudüs'e Seyahat""","German, Turkish, English",140,3
 1999,22,Bosnia and Herzegovina,Dino and Béatrice,"""Putnici""","Bosnian, French",86,7
 1999,23,Estonia,Evelin Samuel and Camille,"""Diamond of Night""",English,90,6
-2000,1,Israel,PingPong,"""Sameach"" (שמח)",Hebrew[b],7,22
+2000,1,Israel,PingPong,"""Sameach"" (שמח)",Hebrew,7,22
 2000,2,Netherlands,Linda Wagenmakers,"""No Goodbyes""",English,40,13
 2000,3,United Kingdom,Nicki French,"""Don't Play That Song Again""",English,28,16
 2000,4,Estonia,Ines,"""Once in a Lifetime""",English,98,4
 2000,5,France,Sofia Mestari,"""On aura le ciel""",French,5,23
 2000,6,Romania,Taxi,"""The Moon""",English,25,17
-2000,7,Malta,Claudette Pace,"""Desire""",English[c],73,8
+2000,7,Malta,Claudette Pace,"""Desire""",English,73,8
 2000,8,Norway,Charmed,"""My Heart Goes Boom""",English,57,11
 2000,9,Russia,Alsou,"""Solo""",English,155,2
 2000,10,Belgium,Nathalie Sorce,"""Envie de vivre""",French,2,24
@@ -856,7 +850,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 2001,5,Israel,Tal Sondak,"""Ein Davar"" (אין דבר)",Hebrew,25,16
 2001,6,Russia,Mumiy Troll,"""Lady Alpine Blue""",English,37,12
 2001,7,Sweden,Friends,"""Listen to Your Heartbeat""",English,100,5
-2001,8,Lithuania,Skamp,"""You Got Style""","English, Lithuanian[b]",35,13
+2001,8,Lithuania,Skamp,"""You Got Style""","English, Lithuanian",35,13
 2001,9,Latvia,Arnis Mednis,"""Too Much""",English,16,18
 2001,10,Croatia,Vanna,"""Strings of My Heart""",English,42,10
 2001,11,Portugal,MTM,"""Só sei ser feliz assim""",Portuguese,18,17
@@ -875,8 +869,8 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 2002,1,Cyprus,One,"""Gimme""",English,85,6
 2002,2,United Kingdom,Jessica Garlick,"""Come Back""",English,111,3
 2002,3,Austria,Manuel Ortega,"""Say a Word""",English,26,18
-2002,4,Greece,Michalis Rakintzis,"""S.A.G.A.P.O.""",English[a],27,17
-2002,5,Spain,Rosa,"""Europe's Living a Celebration""",Spanish[b],81,7
+2002,4,Greece,Michalis Rakintzis,"""S.A.G.A.P.O.""",English,27,17
+2002,5,Spain,Rosa,"""Europe's Living a Celebration""",Spanish,81,7
 2002,6,Croatia,Vesna Pisarović,"""Everything I Want""",English,44,11
 2002,7,Russia,Prime Minister,"""Northern Girl""",English,55,10
 2002,8,Estonia,Sahlene,"""Runaway""",English,111,3
@@ -897,7 +891,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 2002,23,Latvia,Marie N,"""I Wanna""",English,176,1
 2002,24,Lithuania,Aivaras,"""Happy You""",English,12,23
 2003,1,Iceland,Birgitta,"""Open Your Heart""",English,81,8
-2003,2,Austria,Alf Poier,"""Weil der Mensch zählt""",German[a],101,6
+2003,2,Austria,Alf Poier,"""Weil der Mensch zählt""",German,101,6
 2003,3,Ireland,Mickey Harte,"""We've Got the World""",English,53,11
 2003,4,Turkey,Sertab Erener,"""Everyway That I Can""",English,167,1
 2003,5,Malta,Lynn Chircop,"""To Dream Again""",English,4,25
@@ -908,10 +902,10 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 2003,10,Germany,Lou,"""Let's Get Happy""",English,53,11
 2003,11,Russia,t.A.T.u.,"""Ne ver', ne boysia"" (Не верь, не бойся)",Russian,164,3
 2003,12,Spain,Beth,"""Dime""",Spanish,81,8
-2003,13,Israel,Lior Narkis,"""Words for Love""",Hebrew[b],17,19
+2003,13,Israel,Lior Narkis,"""Words for Love""",Hebrew,17,19
 2003,14,Netherlands,Esther Hart,"""One More Night""",English,45,13
 2003,15,United Kingdom,Jemini,"""Cry Baby""",English,0,26
-2003,16,Ukraine,Olexandr,"""Hasta la vista""",English[c],30,14
+2003,16,Ukraine,Olexandr,"""Hasta la vista""",English,30,14
 2003,17,Greece,Mando,"""Never Let You Go""",English,25,17
 2003,18,Norway,Jostein Hasselgård,"""I'm Not Afraid to Move On""",English,123,4
 2003,19,France,Louisa Baïleche,"""Monts et merveilles""",French,19,18
@@ -922,362 +916,459 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 2003,24,Romania,Nicola,"""Don't Break My Heart""",English,73,10
 2003,25,Sweden,Fame,"""Give Me Your Love""",English,107,5
 2003,26,Slovenia,Karmen,"""Nanana""",English,7,23
-2004,1,Finland,Jari Sillanpää,"""Takes 2 to Tango""",English,51,14
-2004,2,Belarus,Aleksandra and Konstantin,"""My Galileo""",English,10,19
-2004,3,Switzerland,Piero and the MusicStars,"""Celebrate""",English,0,22
-2004,4,Latvia,Fomins and Kleins,"""Dziesma par laimi""",Latvian,23,17
-2004,5,Israel,David D'Or,"""Leha'amin"" (להאמין)","Hebrew, English",57,11
-2004,6,Andorra,Marta Roure,"""Jugarem a estimar-nos""",Catalan,12,18
-2004,7,Portugal,Sofia Vitória,"""Foi magia""",Portuguese,38,15
-2004,8,Malta,Julie and Ludwig,"""On Again... Off Again""",English,74,8
-2004,9,Monaco,Maryon,"""Notre planète""",French,10,19
-2004,10,Greece,Sakis Rouvas,"""Shake It""",English,238,3
-2004,11,Ukraine,Ruslana,"""Wild Dances""","English, Ukrainian",256,2
-2004,12,Lithuania,Linas and Simona,"""What's Happened to Your Love""",English,26,16
-2004,13,Albania,Anjeza Shahini,"""The Image of You""",English,167,4
-2004,14,Cyprus,Lisa Andreas,"""Stronger Every Minute""",English,149,5
-2004,15,Macedonia,Toše Proeski,"""Life""",English,71,10
-2004,16,Slovenia,Platin,"""Stay Forever""",English,5,21
-2004,17,Estonia,Neiokõsõ,"""Tii""",Võro,57,11
-2004,18,Croatia,Ivan Mikulić,"""You Are the Only One""",English,72,9
-2004,19,Denmark,Tomas Thordarson,"""Shame on You""",English,56,13
-2004,20,Serbia and Montenegro,Željko Joksimović and Ad-Hoc Orchestra,"""Lane moje"" (Лане моје)",Serbian,263,1
-2004,21,Bosnia and Herzegovina,Deen,"""In the Disco""",English,133,7
-2004,22,Netherlands,Re-Union,"""Without You""",English,146,6
-2005,1,Austria,Global.Kryner,"""Y así""","English, Spanish",30,21
-2005,2,Lithuania,Laura and the Lovers,"""Little by Little""",English,17,25
-2005,3,Portugal,2B,"""Amar""","Portuguese, English",51,17
-2005,4,Moldova,Zdob și Zdub,"""Boonika bate toba""","English, Romanian",207,2
-2005,5,Latvia,Walters and Kazha,"""The War Is Not Over""",English,85,10
-2005,6,Monaco,Lise Darly,"""Tout de moi""",French,22,24
-2005,7,Israel,Shiri Maimon,"""HaSheket SheNish'ar"" (השקט שנשאר)","Hebrew, English",158,7
-2005,8,Belarus,Angelica Agurbash,"""Love Me Tonight""",English,67,13
-2005,9,Netherlands,Glennis Grace,"""My Impossible Dream""",English,53,14
-2005,10,Iceland,Selma,"""If I Had Your Love""",English,52,16
-2005,11,Belgium,Nuno Resende,"""Le grand soir""",French,29,22
-2005,12,Estonia,Suntribe,"""Let's Get Loud""",English,31,20
-2005,13,Norway,Wig Wam,"""In My Dreams""",English,164,6
-2005,14,Romania,Luminița Anghel and Sistem,"""Let Me Try""",English,235,1
-2005,15,Hungary,Nox,"""Forogj, világ""",Hungarian,167,5
-2005,16,Finland,Geir Rönning,"""Why""",English,50,18
-2005,17,Macedonia,Martin Vučić,"""Make My Day""",English,97,9
-2005,18,Andorra,Marian van de Wal,"""La mirada interior""",Catalan,27,23
-2005,19,Switzerland,Vanilla Ninja,"""Cool Vibes""",English,114,8
-2005,20,Croatia,Boris Novković feat. Lado members,"""Vukovi umiru sami""",Croatian,169,4
-2005,21,Bulgaria,Kaffe,"""Lorraine""",English,49,19
-2005,22,Ireland,Donna and Joe,"""Love?""",English,53,14
-2005,23,Slovenia,Omar Naber,"""Stop""",Slovene,69,12
-2005,24,Denmark,Jakob Sveistrup,"""Talking to You""",English,185,3
-2005,25,Poland,Ivan and Delfin,"""Czarna dziewczyna""","Polish, Russian",81,11
-2006,1,Armenia,André,"""Without Your Love""",English,150,6
-2006,2,Bulgaria,Mariana Popova,"""Let Me Cry""",English,36,17
-2006,3,Slovenia,Anžej Dežan,"""Mr Nobody""",English,49,16
-2006,4,Andorra,Jenny,"""Sense tu""",Catalan,8,23
-2006,5,Belarus,Polina Smolova,"""Mum""",English,10,22
-2006,6,Albania,Luiz Ejlli,"""Zjarr e ftohtë""",Albanian,58,14
-2006,7,Belgium,Kate Ryan,"""Je t'adore""",English,69,12
-2006,8,Ireland,Brian Kennedy,"""Every Song Is a Cry for Love""",English,79,9
-2006,9,Cyprus,Annet Artani,"""Why Angels Cry""",English,57,15
-2006,10,Monaco,Séverine Ferrer,"""La Coco-Dance""","French, Tahitian",14,21
-2006,11,Macedonia,Elena Risteska,"""Ninanajna"" (Нинанајна)","English, Macedonian",76,10
-2006,12,Poland,Ich Troje[a],"""Follow My Heart""","English, Polish, German, Russian[b]",70,11
-2006,13,Russia,Dima Bilan,"""Never Let You Go""",English,217,3
-2006,14,Turkey,Sibel Tüzün,"""Süper Star""",Turkish[c],91,8
-2006,15,Ukraine,Tina Karol,"""Show Me Your Love""",English,146,7
-2006,16,Finland,Lordi,"""Hard Rock Hallelujah""",English,292,1
-2006,17,Netherlands,Treble,"""Amambanda""","English, Imaginary",22,20
-2006,18,Lithuania,LT United,"""We Are the Winners""",English[d],163,5
-2006,19,Portugal,Nonstop,"""Coisas de nada""","Portuguese, English",26,19
-2006,20,Sweden,Carola,"""Invincible""",English,214,4
-2006,21,Estonia,Sandra,"""Through My Window""",English,28,18
-2006,22,Bosnia and Herzegovina,Hari Mata Hari,"""Lejla""",Bosnian,267,2
-2006,23,Iceland,Silvía Night,"""Congratulations""",English,62,13
-2007,1,Bulgaria,Elitsa Todorova and Stoyan Yankoulov,"""Water""",Bulgarian,146,6
-2007,2,Israel,Teapacks,"""Push the Button""","English, French, Hebrew",17,24
-2007,3,Cyprus,Evridiki,"""Comme ci, comme ça""",French,65,15
-2007,4,Belarus,Koldun,"""Work Your Magic""",English,176,4
-2007,5,Iceland,Eiríkur Hauksson,"""Valentine Lost""",English,77,13
-2007,6,Georgia,Sopho,"""Visionary Dream""",English,123,8
-2007,7,Montenegro,Stevan Faddy,"""'Ajde, kroči"" ('Ајде, крочи)",Montenegrin,33,22
-2007,8,Switzerland,DJ BoBo,"""Vampires Are Alive""",English,40,20
-2007,9,Moldova,Natalia Barbu,"""Fight""",English,91,10
-2007,10,Netherlands,Edsilia Rombley,"""On Top of the World""",English,38,21
-2007,11,Albania,Frederik Ndoci,"""Hear My Plea""","English, Albanian",49,17
-2007,12,Denmark,DQ,"""Drama Queen""",English,45,19
-2007,13,Croatia,Dragonfly feat. Dado Topić,"""Vjerujem u ljubav""","Croatian, English",54,16
-2007,14,Poland,The Jet Set,"""Time to Party""",English,75,14
-2007,15,Serbia,Marija Šerifović,"""Molitva"" (Молитва)",Serbian,298,1
-2007,16,Czech Republic,Kabát,"""Malá dáma""",Czech,1,28
-2007,17,Portugal,Sabrina,"""Dança comigo""","Portuguese, English[a]",88,11
-2007,18,Macedonia,Karolina,"""Mojot svet"" (Мојот свет)","Macedonian, English",97,9
-2007,19,Norway,Guri Schanke,"""Ven a bailar conmigo""",English[b],48,18
-2007,20,Malta,Olivia Lewis,"""Vertigo""",English,15,25
-2007,21,Andorra,Anonymous,"""Salvem el món""","Catalan, English",80,12
-2007,22,Hungary,Magdi Rúzsa,"""Unsubstantial Blues""",English,224,2
-2007,23,Estonia,Gerli Padar,"""Partners in Crime""",English,33,22
-2007,24,Belgium,The KMG's,"""LovePower""",English,14,26
-2007,25,Slovenia,Alenka Gotar,"""Cvet z juga""",Slovene,140,7
-2007,26,Turkey,Kenan Doğulu,"""Shake It Up Şekerim""",English,197,3
-2007,27,Austria,Eric Papilaya,"""Get a Life – Get Alive""",English,4,27
-2007,28,Latvia,Bonaparti.lv,"""Questa notte""",Italian,168,5
-2008,1,Montenegro,Stefan Filipović,"""Zauvijek volim te"" (Заувијек волим те)",Montenegrin,23,14
-2008,2,Israel,Boaz,"""The Fire in Your Eyes""",Hebrew[a],104,5
-2008,3,Estonia,Kreisiraadio,"""Leto svet""","Serbian, German, Finnish",8,18
-2008,4,Moldova,Geta Burlacu,"""A Century of Love""",English,36,12
-2008,5,San Marino,Miodio,"""Complice""",Italian,5,19
-2008,6,Belgium,Ishtar,"""O Julissi""",Imaginary,16,17
-2008,7,Azerbaijan,Elnur and Samir,"""Day After Day""",English,96,6
-2008,8,Slovenia,Rebeka Dremelj,"""Vrag naj vzame""",Slovene,36,11
-2008,9,Norway,Maria,"""Hold On Be Strong""",English,106,4
-2008,10,Poland,Isis Gee,"""For Life""",English,42,10 ‡
-2008,11,Ireland,Dustin the Turkey,"""Irelande Douze Pointe""",English[b],22,15
-2008,12,Andorra,Gisela,"""Casanova""",English[c],22,16
-2008,13,Bosnia and Herzegovina,Laka,"""Pokušaj""",Bosnian,72,9
-2008,14,Armenia,Sirusho,"""Qélé, Qélé"" (Քելե Քելե)","English, Armenian",139,2
-2008,15,Netherlands,Hind,"""Your Heart Belongs to Me""",English,27,13
-2008,16,Finland,Teräsbetoni,"""Missä miehet ratsastaa""",Finnish,79,8
-2008,17,Romania,Nico and Vlad,"""Pe-o margine de lume""","Romanian, Italian",94,7
-2008,18,Russia,Dima Bilan,"""Believe""",English,135,3
-2008,19,Greece,Kalomira,"""Secret Combination""",English,156,1
-2009,1,Montenegro,Andrea Demirović,"""Just Get Out of My Life""",English,44,11
-2009,2,Czech Republic,Gipsy.cz,"""Aven Romale""","English, Romani",0,18
-2009,3,Belgium,Copycat,"""Copycat""",English,1,17
-2009,4,Belarus,Petr Elfimov,"""Eyes That Never Lie""",English,25,13
-2009,5,Sweden,Malena Ernman,"""La voix""","French, English",105,4
-2009,6,Armenia,Inga and Anush,"""Jan Jan"" (Ջան Ջան)","English, Armenian",99,5
-2009,7,Andorra,Susanne Georgi,"""La teva decisió (Get a Life)""","Catalan, English",8,15
-2009,8,Switzerland,Lovebugs,"""The Highest Heights""",English,15,14
-2009,9,Turkey,Hadise,"""Düm Tek Tek""",English[b],172,2
-2009,10,Israel,Noa and Mira Awad,"""There Must Be Another Way""","English, Hebrew, Arabic",75,7
-2009,11,Bulgaria,Krassimir Avramov,"""Illusion""",English,7,16
-2009,12,Iceland,Yohanna,"""Is It True?""",English,174,1
-2009,13,Macedonia,Next Time,"""Nešto što kje ostane"" (Нешто што ќе остане)",Macedonian,45,10
-2009,14,Romania,Elena,"""The Balkan Girls""",English,67,9
-2009,15,Finland,Waldo's People,"""Lose Control""",English,42,12 ‡
-2009,16,Portugal,Flor-de-Lis,"""Todas as ruas do amor""",Portuguese,70,8
-2009,17,Malta,Chiara,"""What If We""",English,86,6
-2009,18,Bosnia and Herzegovina,Regina,"""Bistra voda""",Bosnian,125,3
-2010,1,Moldova,SunStroke Project and Olia Tira,"""Run Away""",English,52,10
-2010,2,Russia,Peter Nalitch and Friends,"""Lost and Forgotten""",English,74,7
-2010,3,Estonia,Malcolm Lincoln,"""Siren""",English,39,14
-2010,4,Slovakia,Kristína,"""Horehronie""",Slovak,24,16
-2010,5,Finland,Kuunkuiskaajat,"""Työlki ellää""",Finnish,49,11
-2010,6,Latvia,Aisha,"""What For?""",English,11,17
-2010,7,Serbia,Milan Stanković,"""Ovo je Balkan"" (Oво je Балкан)",Serbian,79,5
-2010,8,Bosnia and Herzegovina,Vukašin Brajić,"""Thunder and Lightning""",English,59,8
-2010,9,Poland,Marcin Mroziński,"""Legenda""","English, Polish",44,13
-2010,10,Belgium,Tom Dice,"""Me and My Guitar""",English,167,1
-2010,11,Malta,Thea Garrett,"""My Dream""",English,45,12
-2010,12,Albania,Juliana Pasha,"""It's All About You""",English,76,6
-2010,13,Greece,Giorgos Alkaios and Friends,"""Opa"" (Ώπα)",Greek[a],133,2
-2010,14,Portugal,Filipa Azevedo,"""Há dias assim""",Portuguese,89,4
-2010,15,Macedonia,Gjoko Taneski[b],"""Jas ja imam silata"" (Јас ја имам силата)",Macedonian,37,15
-2010,16,Belarus,3+2 feat. Robert Wells,"""Butterflies""",English,59,9
-2010,17,Iceland,Hera Björk,"""Je ne sais quoi""",English[c],123,3
-2011,1,Poland,Magdalena Tul,"""Jestem""",Polish,18,19
-2011,2,Norway,Stella Mwangi,"""Haba Haba""","English, Swahili",30,17
-2011,3,Albania,Aurela Gaçe,"""Feel the Passion""",English[a],47,14
-2011,4,Armenia,Emmy,"""Boom Boom""",English,54,12
-2011,5,Turkey,Yüksek Sadakat,"""Live It Up""",English,47,13
-2011,6,Serbia,Nina,"""Čaroban"" (Чаробан)",Serbian,67,8
-2011,7,Russia,Alexey Vorobyov,"""Get You""","English, Russian",64,9
-2011,8,Switzerland,Anna Rossinelli,"""In Love for a While""",English,55,10
-2011,9,Georgia,Eldrine,"""One More Day""",English,74,6
-2011,10,Finland,Paradise Oskar,"""Da Da Dam""",English,103,3
-2011,11,Malta,Glen Vella,"""One Life""",English,54,11
-2011,12,San Marino,Senit,"""Stand By""",English,34,16
-2011,13,Croatia,Daria,"""Celebrate""",English,41,15
-2011,14,Iceland,Sjonni's Friends,"""Coming Home""",English,100,4
-2011,15,Hungary,Kati Wolf,"""What About My Dreams?""","English, Hungarian",72,7
-2011,16,Portugal,Homens da Luta,"""A luta é alegria""",Portuguese,22,18
-2011,17,Lithuania,Evelina Sašenko,"""C'est ma vie""",English[b],81,5
-2011,18,Azerbaijan,Ell and Nikki,"""Running Scared""",English,122,2
-2011,19,Greece,Loukas Yorkas feat. Stereo Mike,"""Watch My Dance""","English, Greek",133,1
-2012,1,Montenegro,Rambo Amadeus,"""Euro Neuro""",English[b],20,15
-2012,2,Iceland,Greta Salóme and Jónsi,"""Never Forget""",English,75,8
-2012,3,Greece,Eleftheria Eleftheriou,"""Aphrodisiac""",English,116,4
-2012,4,Latvia,Anmary,"""Beautiful Song""",English,17,16
-2012,5,Albania,Rona Nishliu,"""Suus""",Albanian[c],146,2
-2012,6,Romania,Mandinga,"""Zaleilah""","Spanish, English",120,3
-2012,7,Switzerland,Sinplus,"""Unbreakable""",English,45,11
-2012,8,Belgium,Iris,"""Would You?""",English,16,17
-2012,9,Finland,Pernilla,"""När jag blundar""",Swedish,41,12
-2012,10,Israel,Izabo,"""Time""","English, Hebrew",33,13
-2012,11,San Marino,Valentina Monetta,"""The Social Network Song (Oh Oh – Uh - Oh Oh)""",English[d],31,14
-2012,12,Cyprus,Ivi Adamou,"""La La Love""",English,91,7
-2012,13,Denmark,Soluna Samay,"""Should've Known Better""",English,63,9
-2012,14,Russia,Buranovskiye Babushki,"""Party for Everybody""","Udmurt, English",152,1
-2012,15,Hungary,Compact Disco,"""Sound of Our Hearts""",English,52,10
-2012,16,Austria,Trackshittaz,"""Woki mit deim Popo""",German[e],8,18
-2012,17,Moldova,Pasha Parfeny,"""Lăutar""",English[f],100,5
-2012,18,Ireland,Jedward,"""Waterline""",English,92,6
-2013,1,Austria,Natália Kelly,"""Shine""",English,27,14
-2013,2,Estonia,Birgit,"""Et uus saaks alguse""",Estonian,52,10
-2013,3,Slovenia,Hannah,"""Straight into Love""",English,8,16
-2013,4,Croatia,Klapa s Mora,"""Mižerja""",Croatian,38,13
-2013,5,Denmark,Emmelie de Forest,"""Only Teardrops""",English,167,1
-2013,6,Russia,Dina Garipova,"""What If""",English,156,2
-2013,7,Ukraine,Zlata Ognevich,"""Gravity""",English,140,3
-2013,8,Netherlands,Anouk,"""Birds""",English,75,6
-2013,9,Montenegro,Who See[a],"""Igranka"" (Игранка)",Montenegrin,41,12
-2013,10,Lithuania,Andrius Pojavis,"""Something""",English,53,9
-2013,11,Belarus,Alyona Lanskaya,"""Solayoh""",English,64,7
-2013,12,Moldova,Aliona Moon,"""O mie""",Romanian,95,4
-2013,13,Ireland,Ryan Dolan,"""Only Love Survives""",English,54,8
-2013,14,Cyprus,Despina Olympiou,"""An me thimasai"" (Aν με θυμάσαι)",Greek,11,15
-2013,15,Belgium,Roberto Bellarosa,"""Love Kills""",English,75,5
-2013,16,Serbia,Moje 3,"""Ljubav je svuda"" (Љубав је свуда)",Serbian,46,11
-2014,1,Armenia,Aram Mp3,"""Not Alone""",English,121,4
-2014,2,Latvia,Aarzemnieki,"""Cake to Bake""",English[a],33,13
-2014,3,Estonia,Tanja,"""Amazing""",English,36,12
-2014,4,Sweden,Sanna Nielsen,"""Undo""",English,131,2
-2014,5,Iceland,Pollapönk,"""No Prejudice""",English,61,8
-2014,6,Albania,Hersi,"""One Night's Anger""",English,22,15
-2014,7,Russia,Tolmachevy Sisters,"""Shine""",English,63,6
-2014,8,Azerbaijan,Dilara Kazimova,"""Start a Fire""",English,57,9
-2014,9,Ukraine,Mariya Yaremchuk,"""Tick-Tock""",English,118,5
-2014,10,Belgium,Axel Hirsoux,"""Mother""",English,28,14
-2014,11,Moldova,Cristina Scarlat,"""Wild Soul""",English,13,16
-2014,12,San Marino,Valentina Monetta,"""Maybe""",English,40,10
-2014,13,Portugal,Suzy,"""Quero ser tua""",Portuguese,39,11
-2014,14,Netherlands,The Common Linnets,"""Calm After the Storm""",English,150,1
-2014,15,Montenegro,Sergej Ćetković,"""Moj svijet"" (Мој свијет)",Montenegrin,63,7
-2014,16,Hungary,András Kállay-Saunders,"""Running""",English,127,3
-2015,1,Moldova,Eduard Romanyuta,"""I Want Your Love""",English,41,11
-2015,2,Armenia,Genealogy,"""Face the Shadow""",English,77,7
-2015,3,Belgium,Loïc Nottet,"""Rhythm Inside""",English,149,2
-2015,4,Netherlands,Trijntje Oosterhuis,"""Walk Along""",English,33,14
-2015,5,Finland,Pertti Kurikan Nimipäivät,"""Aina mun pitää""",Finnish,13,16
-2015,6,Greece,Maria Elena Kyriakou,"""One Last Breath""",English,81,6
-2015,7,Estonia,Elina Born and Stig Rästa,"""Goodbye to Yesterday""",English,105,3
-2015,8,Macedonia,Daniel Kajmakoski,"""Autumn Leaves""",English,28,15
-2015,9,Serbia,Bojana Stamenov,"""Beauty Never Lies""",English,63,9
-2015,10,Hungary,Boggie,"""Wars for Nothing""",English,67,8
-2015,11,Belarus,Uzari and Maimuna,"""Time""",English,39,12
-2015,12,Russia,Polina Gagarina,"""A Million Voices""",English,182,1
-2015,13,Denmark,Anti Social Media,"""The Way You Are""",English,33,13
-2015,14,Albania,Elhaida Dani,"""I'm Alive""",English,62,10
-2015,15,Romania,Voltaj,"""De la capăt""","Romanian, English",89,5
-2015,16,Georgia,Nina Sublatti,"""Warrior""",English,98,4
-2016,1,Finland,Sandhja,"""Sing It Away""",English,51,15
-2016,2,Greece,Argo,"""Utopian Land""","English, Greek[d]",44,16
-2016,3,Moldova,Lidia Isac,"""Falling Stars""",English,33,17
-2016,4,Hungary,Freddie,"""Pioneer""",English,197,4[e]
-2016,5,Croatia,Nina Kraljić,"""Lighthouse""",English,133,10
-2016,6,Netherlands,Douwe Bob,"""Slow Down""",English,197,5
-2016,7,Armenia,Iveta Mukuchyan,"""LoveWave""",English,243,2
-2016,8,San Marino,Serhat,"""I Didn't Know""",English,68,12
-2016,9,Russia,Sergey Lazarev,"""You Are the Only One""",English,342,1
-2016,10,Czech Republic,Gabriela Gunčíková,"""I Stand""",English,161,9
-2016,11,Cyprus,Minus One,"""Alter Ego""",English,164,8
-2016,12,Austria,Zoë,"""Loin d'ici""",French,170,7
-2016,13,Estonia,Jüri Pootsmann,"""Play""",English,24,18
-2016,14,Azerbaijan,Samra,"""Miracle""",English,185,6
-2016,15,Montenegro,Highway,"""The Real Thing""",English,60,13
-2016,16,Iceland,Greta Salóme,"""Hear Them Calling""",English,51,14[f]
-2016,17,Bosnia and Herzegovina,Dalal and Deen feat. Ana Rucner and Jala,"""Ljubav je""",Bosnian,104,11
-2016,18,Malta,Ira Losco,"""Walk on Water""",English,209,3
-2017,1,Sweden,Robin Bengtsson,"""I Can't Go On""",English,227,3
-2017,2,Georgia,Tamara Gachechiladze,"""Keep the Faith""",English,99,11
-2017,3,Australia,Isaiah,"""Don't Come Easy""",English,160,6
-2017,4,Albania,Lindita,"""World""",English,76,14
-2017,5,Belgium,Blanche,"""City Lights""",English,165,4
-2017,6,Montenegro,Slavko Kalezić,"""Space""",English,56,16
-2017,7,Finland,Norma John,"""Blackbird""",English,92,12
-2017,8,Azerbaijan,Dihaj,"""Skeletons""",English,150,8
-2017,9,Portugal,Salvador Sobral,"""Amar pelos dois""",Portuguese,370,1
-2017,10,Greece,Demy,"""This Is Love""",English,115,10
-2017,11,Poland,Kasia Moś,"""Flashlight""",English,119,9
-2017,12,Moldova,SunStroke Project,"""Hey Mamma""",English,291,2
-2017,13,Iceland,Svala,"""Paper""",English,60,15
-2017,14,Czech Republic,Martina Bárta,"""My Turn""",English,83,13
-2017,15,Cyprus,Hovig,"""Gravity""",English,164,5
-2017,16,Armenia,Artsvik,"""Fly with Me""",English,152,7
-2017,17,Slovenia,Omar Naber,"""On My Way""",English,36,17
-2017,18,Latvia,Triana Park,"""Line""",English,21,18
-2018,1,Azerbaijan,Aisel,"""X My Heart""",English,94,11
-2018,2,Iceland,Ari Ólafsson,"""Our Choice""",English,15,19
-2018,3,Albania,Eugent Bushpepa,"""Mall""",Albanian,162,8
-2018,4,Belgium,Sennek,"""A Matter of Time""",English,91,12
-2018,5,Czech Republic,Mikolas Josef,"""Lie to Me""",English,232,3
-2018,6,Lithuania,Ieva Zasimauskaitė,"""When We're Old""",English[a],119,9
-2018,7,Israel,Netta,"""Toy""",English[b],283,1
-2018,8,Belarus,Alekseev,"""Forever""",English,65,16
-2018,9,Estonia,Elina Nechayeva,"""La forza""",Italian,201,5
-2018,10,Bulgaria,Equinox,"""Bones""",English,177,7
-2018,11,Macedonia,Eye Cue,"""Lost and Found""",English,24,18
-2018,12,Croatia,Franka,"""Crazy""",English,63,17
-2018,13,Austria,Cesár Sampson,"""Nobody but You""",English,231,4
-2018,14,Greece,Yianna Terzi,"""Oniro mou"" (Όνειρό μου)",Greek,81,14
-2018,15,Finland,Saara Aalto,"""Monsters""",English,108,10
-2018,16,Armenia,Sevak Khanagyan,"""Qami"" (Քամի)",Armenian,79,15
-2018,17,Switzerland,Zibbz,"""Stones""",English,86,13
-2018,18,Ireland,Ryan O'Shaughnessy,"""Together""",English,179,6
-2018,19,Cyprus,Eleni Foureira,"""Fuego""",English[c],262,2
-2019,1,Cyprus,Tamta,"""Replay""",English,149,9
-2019,2,Montenegro,D mol,"""Heaven""",English,46,16
-2019,3,Finland,Darude feat. Sebastian Rejman,"""Look Away""",English,23,17
-2019,4,Poland,Tulia,"""Fire of Love (Pali się)""","Polish, English",120,11
-2019,5,Slovenia,Zala Kralj and Gašper Šantl,"""Sebi""",Slovene,167,6
-2019,6,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,242,2
-2019,7,Hungary,Joci Pápai,"""Az én apám""",Hungarian,97,12
-2019,8,Belarus,Zena,"""Like It""",English,122,10
-2019,9,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian[d],156,7
-2019,10,Belgium,Eliot,"""Wake Up""",English,70,13
-2019,11,Georgia,Oto Nemsadze,"""Keep On Going""",Georgian[e],62,14
-2019,12,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,261,1
-2019,13,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,221,3
-2019,14,Estonia,Victor Crone,"""Storm""",English,198,4
-2019,15,Portugal,Conan Osíris,"""Telemóveis""",Portuguese,51,15
-2019,16,Greece,Katerine Duska,"""Better Love""",English,185,5
-2019,17,San Marino,Serhat,"""Say Na Na Na""",English[f],150,8
-2020,1,Sweden,The Mamas,"""Move""",English
-2020,2,Belarus,VAL,"""Da vidna"" (Да відна)",Belarusian
-2020,3,Australia,Montaigne,"""Don't Break Me""",English
-2020,4,North Macedonia,Vasil,"""You""",English
-2020,5,Slovenia,Ana Soklič,"""Voda""",Slovene
-2020,6,Lithuania,The Roop,"""On Fire""",English
-2020,7,Ireland,Lesley Roy,"""Story of My Life""",English
-2020,8,Russia,Little Big,"""Uno""","English, Spanish"
-2020,9,Belgium,Hooverphonic,"""Release Me""",English
-2020,10,Malta,Destiny,"""All of My Love""",English
-2020,11,Croatia,Damir Kedžo,"""Divlji vjetre""",Croatian
-2020,12,Azerbaijan,Efendi,"""Cleopatra""",English[b]
-2020,13,Cyprus,Sandro,"""Running""",English
-2020,14,Norway,Ulrikke,"""Attention""",English
-2020,15,Israel,Eden Alene,"""Feker Libi"" (ፍቅር ልቤ)","English, Amharic[c]"
-2020,16,Romania,Roxen,"""Alcohol You""",English
-2020,17,Ukraine,Go_A,"""Solovey"" (Соловей)",Ukrainian
-2021,1,Lithuania,The Roop,"""Discoteque""",English,203,4
-2021,2,Slovenia,Ana Soklič,"""Amen""",English,44,13
-2021,3,Russia,Manizha,"""Russian Woman""","Russian, English",225,3
-2021,4,Sweden,Tusse,"""Voices""",English,142,7
-2021,5,Australia[g],Montaigne,"""Technicolour""",English,28,14
-2021,6,North Macedonia,Vasil,"""Here I Stand""",English,23,15
-2021,7,Ireland,Lesley Roy,"""Maps""",English,20,16
-2021,8,Cyprus,Elena Tsagrinou,"""El Diablo""",English[h],170,6
-2021,9,Norway,Tix,"""Fallen Angel""",English,115,10
-2021,10,Croatia,Albina,"""Tick-Tock""","English, Croatian",110,11
-2021,11,Belgium,Hooverphonic,"""The Wrong Place""",English,117,9
-2021,12,Israel,Eden Alene,"""Set Me Free""",English[i],192,5
-2021,13,Romania,Roxen,"""Amnesia""",English,85,12
-2021,14,Azerbaijan,Efendi,"""Mata Hari""",English[j],138,8
-2021,15,Ukraine,Go_A,"""Shum"" (Шум)",Ukrainian,267,2
-2021,16,Malta,Destiny,"""Je me casse""",English[k],325,1
-2022,1,Albania,Ronela Hajati,"""Sekret""","Albanian, English[d]",58,12
-2022,2,Latvia,Citi Zēni,"""Eat Your Salad""",English,55,14
-2022,3,Lithuania,Monika Liu,"""Sentimentai""",Lithuanian,159,7
-2022,4,Switzerland,Marius Bear,"""Boys Do Cry""",English,118,9
-2022,5,Slovenia,LPS,"""Disko""",Slovene,15,17
-2022,6,Ukraine,Kalush Orchestra,"""Stefania"" (Стефанія)",Ukrainian,337,1
-2022,7,Bulgaria,Intelligent Music Project,"""Intention""",English,29,16
-2022,8,Netherlands,S10,"""De diepte""",Dutch,221,2
-2022,9,Moldova,Zdob și Zdub and Advahov Brothers,"""Trenulețul""","Romanian, English",154,8
-2022,10,Portugal,Maro,"""Saudade, saudade""","English, Portuguese",208,4
-2022,11,Croatia,Mia Dimšić,"""Guilty Pleasure""","English, Croatian",75,11
-2022,12,Denmark,Reddi,"""The Show""",English,55,13
-2022,13,Austria,Lumix feat. Pia Maria,"""Halo""",English,42,15
-2022,14,Iceland,Systur,"""Með hækkandi sól""",Icelandic,103,10
-2022,15,Greece,Amanda Georgiadi Tenfjord,"""Die Together""",English,211,3
-2022,16,Norway,Subwoolfer,"""Give That Wolf a Banana""",English,177,6
-2022,17,Armenia,Rosa Linn,"""Snap""",English,187,5
+2004,1,Spain,Ramón,"""Para llenarme de ti""",Spanish,87,10
+2004,2,Austria,Tie Break,"""Du bist""",German,9,21
+2004,3,Norway,Knut Anders Sørum,"""High""",English,3,24
+2004,4,France,Jonatan Cerrada,"""À chaque pas""","French, Spanish",40,15
+2004,5,Serbia and Montenegro,Željko Joksimović and Ad-Hoc Orchestra,"""Lane moje"" (Лане моје)",Serbian,263,2
+2004,6,Malta,Julie and Ludwig,"""On Again... Off Again""",English,50,12
+2004,7,Netherlands,Re-Union,"""Without You""",English,11,20
+2004,8,Germany,Max,"""Can't Wait Until Tonight""","English, Turkish",93,8
+2004,9,Albania,Anjeza Shahini,"""The Image of You""",English,106,7
+2004,10,Ukraine,Ruslana,"""Wild Dances""","English, Ukrainian",280,1
+2004,11,Croatia,Ivan Mikulić,"""You Are the Only One""",English,50,12
+2004,12,Bosnia and Herzegovina,Deen,"""In the Disco""",English,91,9
+2004,13,Belgium,Xandee,"""1 Life""",English,7,22
+2004,14,Russia,Julia Savicheva,"""Believe Me""",English,67,11
+2004,15,Macedonia,Toše Proeski,"""Life""",English,47,14
+2004,16,Greece,Sakis Rouvas,"""Shake It""",English,252,3
+2004,17,Iceland,Jónsi,"""Heaven""",English,16,19
+2004,18,Ireland,Chris Doran,"""If My World Stopped Turning""",English,7,22
+2004,19,Poland,Blue Café,"""Love Song""","English, Spanish",27,17
+2004,20,United Kingdom,James Fox,"""Hold On to Our Love""",English,29,16
+2004,21,Cyprus,Lisa Andreas,"""Stronger Every Minute""",English,170,5
+2004,22,Turkey,Athena,"""For Real""",English,195,4
+2004,23,Romania,Sanda,"""I Admit""",English,18,18
+2004,24,Sweden,Lena Philipsson,"""It Hurts""",English,170,5
+2005,1,Hungary,Nox,"""Forogj, világ""",Hungarian,97,12
+2005,2,United Kingdom,Javine,"""Touch My Fire""",English,18,22
+2005,3,Malta,Chiara,"""Angel""",English,192,2
+2005,4,Romania,Luminița Anghel and Sistem,"""Let Me Try""",English,158,3
+2005,5,Norway,Wig Wam,"""In My Dreams""",English,125,9
+2005,6,Turkey,Gülseren,"""Rimi Rimi Ley""",Turkish,92,13
+2005,7,Moldova,Zdob și Zdub,"""Boonika bate toba""","English, Romanian",148,6
+2005,8,Albania,Ledina Çelo,"""Tomorrow I Go""",English,53,16
+2005,9,Cyprus,Constantinos Christoforou,"""Ela Ela""",English,46,18
+2005,10,Spain,Son de Sol,"""Brujería""",Spanish,28,21
+2005,11,Israel,Shiri Maimon,"""HaSheket SheNish'ar"" (השקט שנשאר)","Hebrew, English",154,4
+2005,12,Serbia and Montenegro,No Name,"""Zauvijek moja"" (Заувијек моја)",Montenegrin,137,7
+2005,13,Denmark,Jakob Sveistrup,"""Talking to You""",English,125,9
+2005,14,Sweden,Martin Stenmarck,"""Las Vegas""",English,30,19
+2005,15,Macedonia,Martin Vučić,"""Make My Day""",English,52,17
+2005,16,Ukraine,GreenJolly,"""Razom nas bahato"" (Разом нас багато)","Ukrainian, English",30,19
+2005,17,Germany,Gracia,"""Run & Hide""",English,4,24
+2005,18,Croatia,Boris Novković feat. Lado members,"""Vukovi umiru sami""",Croatian,115,11
+2005,19,Greece,Helena Paparizou,"""My Number One""",English,230,1
+2005,20,Russia,Natalia Podolskaya,"""Nobody Hurt No One""",English,57,15
+2005,21,Bosnia and Herzegovina,Feminnem,"""Call Me""",English,79,14
+2005,22,Switzerland,Vanilla Ninja,"""Cool Vibes""",English,128,8
+2005,23,Latvia,Walters and Kazha,"""The War Is Not Over""",English,153,5
+2005,24,France,Ortal,"""Chacun pense à soi""",French,11,23
+2006,1,Switzerland,six4one,"""If We All Give a Little""",English,30,16
+2006,2,Moldova,Arsenium feat. Natalia Gordienko and Connect-R,"""Loca""",English,22,20
+2006,3,Israel,Eddie Butler,"""Together We Are One""","Hebrew, English",4,23
+2006,4,Latvia,Vocal Group Cosmos,"""I Hear Your Heart""",English,30,16
+2006,5,Norway,Christine Guldbrandsen,"""Alvedansen""",Norwegian,36,14
+2006,6,Spain,Las Ketchup,"""Bloody Mary""",Spanish,18,21
+2006,7,Malta,Fabrizio Faniello,"""I Do""",English,1,24
+2006,8,Germany,Texas Lightning,"""No No Never""",English,36,14
+2006,9,Denmark,Sidsel Ben Semmane,"""Twist of Love""",English,26,18
+2006,10,Russia,Dima Bilan,"""Never Let You Go""",English,248,2
+2006,11,Macedonia,Elena Risteska,"""Ninanajna"" (Нинанајна)","English, Macedonian",56,12
+2006,12,Romania,Mihai Trăistariu,"""Tornerò""","English, Italian",172,4
+2006,13,Bosnia and Herzegovina,Hari Mata Hari,"""Lejla""",Bosnian,229,3
+2006,14,Lithuania,LT United,"""We Are the Winners""",English,162,6
+2006,15,United Kingdom,Daz Sampson,"""Teenage Life""",English,25,19
+2006,16,Greece,Anna Vissi,"""Everything""",English,128,9
+2006,17,Finland,Lordi,"""Hard Rock Hallelujah""",English,292,1
+2006,18,Ukraine,Tina Karol,"""Show Me Your Love""",English,145,7
+2006,19,France,Virginie Pouchain,"""Il était temps""",French,5,22
+2006,20,Croatia,Severina,"""Moja štikla""",Croatian,56,12
+2006,21,Ireland,Brian Kennedy,"""Every Song Is a Cry for Love""",English,93,10
+2006,22,Sweden,Carola,"""Invincible""",English,170,5
+2006,23,Turkey,Sibel Tüzün,"""Süper Star""","Turkish, English",91,11
+2006,24,Armenia,André,"""Without Your Love""",English,129,8
+2007,1,Bosnia and Herzegovina,Marija Šestić,"""Rijeka bez imena"" (Ријека без имена)",Serbian,106,11
+2007,2,Spain,D'Nash,"""I Love You Mi Vida""",Spanish,43,20
+2007,3,Belarus,Koldun,"""Work Your Magic""",English,145,6
+2007,4,Ireland,Dervish,"""They Can't Stop the Spring""",English,5,24
+2007,5,Finland,Hanna Pakarinen,"""Leave Me Alone""",English,53,17
+2007,6,Macedonia,Karolina,"""Mojot svet"" (Мојот свет)","Macedonian, English",73,14
+2007,7,Slovenia,Alenka Gotar,"""Cvet z juga""",Slovene,66,15
+2007,8,Hungary,Magdi Rúzsa,"""Unsubstantial Blues""",English,128,9
+2007,9,Lithuania,4Fun,"""Love or Leave""",English,28,21
+2007,10,Greece,Sarbel,"""Yassou Maria"" (Γεια σου Μαρία)",English,139,7
+2007,11,Georgia,Sopho,"""Visionary Dream""",English,97,12
+2007,12,Sweden,The Ark,"""The Worrying Kind""",English,51,18
+2007,13,France,Les Fatals Picards,"""L'amour à la française""","French, English (""Franglais"")",19,22
+2007,14,Latvia,Bonaparti.lv,"""Questa notte""",Italian,54,16
+2007,15,Russia,Serebro,"""Song #1""",English,207,3
+2007,16,Germany,Roger Cicero,"""Frauen regier'n die Welt""","German, English",49,19
+2007,17,Serbia,Marija Šerifović,"""Molitva"" (Молитва)",Serbian,268,1
+2007,18,Ukraine,Verka Serduchka,"""Dancing Lasha Tumbai""","German, English, Surzhyk",235,2
+2007,19,United Kingdom,Scooch,"""Flying the Flag (For You)""",English,19,22
+2007,20,Romania,Todomondo,"""Liubi, Liubi, I Love You"" (Люби, Люби, I Love You)","English, Italian, Spanish, Russian, French, Romanian",84,13
+2007,21,Bulgaria,Elitsa Todorova and Stoyan Yankoulov,"""Water""",Bulgarian,157,5
+2007,22,Turkey,Kenan Doğulu,"""Shake It Up Şekerim""",English,163,4
+2007,23,Armenia,Hayko,"""Anytime You Need""","English, Armenian",138,8
+2007,24,Moldova,Natalia Barbu,"""Fight""",English,109,10
+2008,1,Romania,Nico and Vlad,"""Pe-o margine de lume""","Romanian, Italian",45,20
+2008,2,United Kingdom,Andy Abraham,"""Even If""",English,14,25
+2008,3,Albania,Olta Boka,"""Zemrën e lamë peng""",Albanian,55,17
+2008,4,Germany,No Angels,"""Disappear""",English,14,23
+2008,5,Armenia,Sirusho,"""Qélé, Qélé"" (Քելե Քելե)","English, Armenian",199,4
+2008,6,Bosnia and Herzegovina,Laka,"""Pokušaj""",Bosnian,110,10
+2008,7,Israel,Boaz,"""The Fire in Your Eyes""",Hebrew,124,9
+2008,8,Finland,Teräsbetoni,"""Missä miehet ratsastaa""",Finnish,35,22
+2008,9,Croatia,Kraljevi ulice and 75 Cents,"""Romanca""",Croatian,44,21
+2008,10,Poland,Isis Gee,"""For Life""",English,14,24
+2008,11,Iceland,Euroband,"""This Is My Life""",English,64,14
+2008,12,Turkey,Mor ve Ötesi,"""Deli""",Turkish,138,7
+2008,13,Portugal,Vânia Fernandes,"""Senhora do mar (negras águas)""",Portuguese,69,13
+2008,14,Latvia,Pirates of the Sea,"""Wolves of the Sea""",English,83,12
+2008,15,Sweden,Charlotte Perrelli,"""Hero""",English,47,18
+2008,16,Denmark,Simon Mathew,"""All Night Long""",English,60,15
+2008,17,Georgia,Diana Gurtskaya,"""Peace Will Come""",English,83,11
+2008,18,Ukraine,Ani Lorak,"""Shady Lady""",English,230,2
+2008,19,France,Sébastien Tellier,"""Divine""",English,47,19
+2008,20,Azerbaijan,Elnur and Samir,"""Day After Day""",English,132,8
+2008,21,Greece,Kalomira,"""Secret Combination""",English,218,3
+2008,22,Spain,Rodolfo Chikilicuatre,"""Baila el Chiki Chiki""","Spanish, English",55,16
+2008,23,Serbia,Jelena Tomašević feat. Bora Dugić,"""Oro"" (Оро)",Serbian,160,6
+2008,24,Russia,Dima Bilan,"""Believe""",English,272,1
+2008,25,Norway,Maria,"""Hold On Be Strong""",English,182,5
+2009,1,Lithuania,Sasha Son,"""Love""","English, Russian",23,23
+2009,2,Israel,Noa and Mira Awad,"""There Must Be Another Way""","English, Hebrew, Arabic",53,16
+2009,3,France,Patricia Kaas,"""Et s'il fallait le faire""",French,107,8
+2009,4,Sweden,Malena Ernman,"""La voix""","English, French",33,21
+2009,5,Croatia,Igor Cukrov feat. Andrea,"""Lijepa Tena""",Croatian,45,18
+2009,6,Portugal,Flor-de-Lis,"""Todas as ruas do amor""",Portuguese,57,15
+2009,7,Iceland,Yohanna,"""Is It True?""",English,218,2
+2009,8,Greece,Sakis Rouvas,"""This Is Our Night""",English,120,7
+2009,9,Armenia,Inga and Anush,"""Jan Jan"" (Ջան Ջան)","English, Armenian",92,10
+2009,10,Russia,Anastasia Prikhodko,"""Mamo"" (Мамо)","Russian, Ukrainian",91,11
+2009,11,Azerbaijan,AySel and Arash,"""Always""",English,207,3
+2009,12,Bosnia and Herzegovina,Regina,"""Bistra voda""",Bosnian,106,9
+2009,13,Moldova,Nelly Ciobanu,"""Hora din Moldova""","Romanian, English",69,14
+2009,14,Malta,Chiara,"""What If We""",English,31,22
+2009,15,Estonia,Urban Symphony,"""Rändajad""",Estonian,129,6
+2009,16,Denmark,Brinck,"""Believe Again""",English,74,13
+2009,17,Germany,Alex Swings Oscar Sings!,"""Miss Kiss Kiss Bang""",English,35,20
+2009,18,Turkey,Hadise,"""Düm Tek Tek""",English,177,4
+2009,19,Albania,Kejsi Tola,"""Carry Me in Your Dreams""",English,48,17
+2009,20,Norway,Alexander Rybak,"""Fairytale""",English,387,1
+2009,21,Ukraine,Svetlana Loboda,"""Be My Valentine! (Anti-Crisis Girl)""",English,76,12
+2009,22,Romania,Elena,"""The Balkan Girls""",English,40,19
+2009,23,United Kingdom,Jade Ewen,"""It's My Time""",English,173,5
+2009,24,Finland,Waldo's People,"""Lose Control""",English,22,25
+2009,25,Spain,Soraya Arnelas,"""La noche es para mí""","Spanish, English",23,24
+2010,1,Azerbaijan,Safura,"""Drip Drop""",English,145,5
+2010,2[d],Spain,Daniel Diges,"""Algo pequeñito""",Spanish,68,15
+2010,3,Norway,Didrik Solli-Tangen,"""My Heart Is Yours""",English,35,20
+2010,4,Moldova,SunStroke Project and Olia Tira,"""Run Away""",English,27,22
+2010,5,Cyprus,Jon Lilygreen and the Islanders,"""Life Looks Better in Spring""",English,27,21
+2010,6,Bosnia and Herzegovina,Vukašin Brajić,"""Thunder and Lightning""",English,51,17
+2010,7,Belgium,Tom Dice,"""Me and My Guitar""",English,143,6
+2010,8,Serbia,Milan Stanković,"""Ovo je Balkan"" (Oво je Балкан)",Serbian,72,13
+2010,9,Belarus,3+2 feat. Robert Wells,"""Butterflies""",English,18,24
+2010,10,Ireland,Niamh Kavanagh,"""It's for You""",English,25,23
+2010,11,Greece,Giorgos Alkaios and Friends,"""Opa"" (Ώπα)",Greek,140,8
+2010,12,United Kingdom,Josh Dubovie,"""That Sounds Good to Me""",English,10,25
+2010,13,Georgia,Sofia Nizharadze,"""Shine""",English,136,9
+2010,14,Turkey,Manga,"""We Could Be the Same""",English,170,2
+2010,15,Albania,Juliana Pasha,"""It's All About You""",English,62,16
+2010,16,Iceland,Hera Björk,"""Je ne sais quoi""",English,41,19
+2010,17,Ukraine,Alyosha,"""Sweet People""",English,108,10
+2010,18,France,Jessy Matador,"""Allez Ola Olé""",French,82,12
+2010,19,Romania,Paula Seling and Ovi,"""Playing with Fire""",English,162,3
+2010,20,Russia,Peter Nalitch and Friends,"""Lost and Forgotten""",English,90,11
+2010,21,Armenia,Eva Rivas,"""Apricot Stone""",English,141,7
+2010,22,Germany,Lena,"""Satellite""",English,246,1
+2010,23,Portugal,Filipa Azevedo,"""Há dias assim""",Portuguese,43,18
+2010,24,Israel,Harel Skaat,"""Milim"" (מילים)",Hebrew,71,14
+2010,25,Denmark,Chanée and N'evergreen,"""In a Moment like This""",English,149,4
+2011,1,Finland,Paradise Oskar,"""Da Da Dam""",English,57,21
+2011,2,Bosnia and Herzegovina,Dino Merlin,"""Love in Rewind""",English,125,6
+2011,3,Denmark,A Friend in London,"""New Tomorrow""",English,134,5
+2011,4,Lithuania,Evelina Sašenko,"""C'est ma vie""",English,63,19
+2011,5,Hungary,Kati Wolf,"""What About My Dreams?""","English, Hungarian",53,22
+2011,6,Ireland,Jedward,"""Lipstick""",English,119,8
+2011,7,Sweden,Eric Saade,"""Popular""",English,185,3
+2011,8,Estonia,Getter Jaani,"""Rockefeller Street""",English,44,24
+2011,9,Greece,Loukas Yorkas feat. Stereo Mike,"""Watch My Dance""","English, Greek",120,7
+2011,10,Russia,Alexey Vorobyov,"""Get You""","English, Russian",77,16
+2011,11,France,Amaury Vassili,"""Sognu""",Corsican,82,15
+2011,12,Italy,Raphael Gualazzi,"""Madness of Love""","Italian, English",189,2
+2011,13,Switzerland,Anna Rossinelli,"""In Love for a While""",English,19,25
+2011,14,United Kingdom,Blue,"""I Can""",English,100,11
+2011,15,Moldova,Zdob și Zdub,"""So Lucky""",English,97,12
+2011,16,Germany,Lena,"""Taken by a Stranger""",English,107,10
+2011,17,Romania,Hotel FM,"""Change""",English,77,17
+2011,18,Austria,Nadine Beiler,"""The Secret Is Love""",English,64,18
+2011,19,Azerbaijan,Ell and Nikki,"""Running Scared""",English,221,1
+2011,20,Slovenia,Maja Keuc,"""No One""",English,96,13
+2011,21,Iceland,Sjonni's Friends,"""Coming Home""",English,61,20
+2011,22,Spain,Lucía Pérez,"""Que me quiten lo bailao""",Spanish,50,23
+2011,23,Ukraine,Mika Newton,"""Angel""",English,159,4
+2011,24,Serbia,Nina,"""Čaroban"" (Чаробан)",Serbian,85,14
+2011,25,Georgia,Eldrine,"""One More Day""",English,110,9
+2012,1,United Kingdom,Engelbert Humperdinck,"""Love Will Set You Free""",English,12,25
+2012,2,Hungary,Compact Disco,"""Sound of Our Hearts""",English,19,24
+2012,3,Albania,Rona Nishliu,"""Suus""",Albanian,146,5
+2012,4,Lithuania,Donny Montell,"""Love Is Blind""",English,70,14
+2012,5,Bosnia and Herzegovina,Maya Sar,"""Korake ti znam""",Bosnian,55,18
+2012,6,Russia,Buranovskiye Babushki,"""Party for Everybody""","Udmurt, English",259,2
+2012,7,Iceland,Greta Salóme and Jónsi,"""Never Forget""",English,46,20
+2012,8,Cyprus,Ivi Adamou,"""La La Love""",English,65,16
+2012,9,France,Anggun,"""Echo (You and I)""","French, English",21,22
+2012,10,Italy,Nina Zilli,"""L'amore è femmina (Out of Love)""","English, Italian",101,9
+2012,11,Estonia,Ott Lepland,"""Kuula""",Estonian,120,6
+2012,12,Norway,Tooji,"""Stay""",English,7,26
+2012,13,Azerbaijan,Sabina Babayeva,"""When the Music Dies""",English,150,4
+2012,14,Romania,Mandinga,"""Zaleilah""","Spanish, English",71,12
+2012,15,Denmark,Soluna Samay,"""Should've Known Better""",English,21,23
+2012,16,Greece,Eleftheria Eleftheriou,"""Aphrodisiac""",English,64,17
+2012,17,Sweden,Loreen,"""Euphoria""",English,372,1
+2012,18,Turkey,Can Bonomo,"""Love Me Back""",English,112,7
+2012,19,Spain,Pastora Soler,"""Quédate conmigo""",Spanish,97,10
+2012,20,Germany,Roman Lob,"""Standing Still""",English,110,8
+2012,21,Malta,Kurt Calleja,"""This Is the Night""",English,41,21
+2012,22,Macedonia,Kaliopi,"""Crno i belo"" (Црно и бело)",Macedonian,71,13
+2012,23,Ireland,Jedward,"""Waterline""",English,46,19
+2012,24,Serbia,Željko Joksimović,"""Nije ljubav stvar"" (Није љубав ствар)",Serbian,214,3
+2012,25,Ukraine,Gaitana,"""Be My Guest""",English,65,15
+2012,26,Moldova,Pasha Parfeny,"""Lăutar""",English,81,11
+2013,1,France,Amandine Bourgeois,"""L'enfer et moi""",French,14,23
+2013,2,Lithuania,Andrius Pojavis,"""Something""",English,17,22
+2013,3,Moldova,Aliona Moon,"""O mie""",Romanian,71,11
+2013,4,Finland,Krista Siegfrids,"""Marry Me""",English,13,24
+2013,5,Spain,ESDM,"""Contigo hasta el final""",Spanish,8,25
+2013,6,Belgium,Roberto Bellarosa,"""Love Kills""",English,71,12
+2013,7,Estonia,Birgit,"""Et uus saaks alguse""",Estonian,19,20
+2013,8,Belarus,Alyona Lanskaya,"""Solayoh""",English,48,16
+2013,9,Malta,Gianluca,"""Tomorrow""",English,120,8
+2013,10,Russia,Dina Garipova,"""What If""",English,174,5
+2013,11,Germany,Cascada,"""Glorious""",English,18,21
+2013,12,Armenia,Dorians,"""Lonely Planet""",English,41,18
+2013,13,Netherlands,Anouk,"""Birds""",English,114,9
+2013,14,Romania,Cezar,"""It's My Life""",English,65,13
+2013,15,United Kingdom,Bonnie Tyler,"""Believe in Me""",English,23,19
+2013,16,Sweden,Robin Stjernberg,"""You""",English,62,14
+2013,17,Hungary,ByeAlex,"""Kedvesem"" (Zoohacker Remix)",Hungarian,84,10
+2013,18,Denmark,Emmelie de Forest,"""Only Teardrops""",English,281,1
+2013,19,Iceland,Eythor Ingi,"""Ég á líf""",Icelandic,47,17
+2013,20,Azerbaijan,Farid Mammadov,"""Hold Me""",English,234,2
+2013,21,Greece,Koza Mostra feat. Agathon Iakovidis,"""Alcohol Is Free""",Greek,152,6
+2013,22,Ukraine,Zlata Ognevich,"""Gravity""",English,214,3
+2013,23,Italy,Marco Mengoni,"""L'essenziale""",Italian,126,7
+2013,24,Norway,Margaret Berger,"""I Feed You My Love""",English,191,4
+2013,25,Georgia,Nodi Tatishvili and Sophie Gelovani,"""Waterfall""",English,50,15
+2013,26,Ireland,Ryan Dolan,"""Only Love Survives""",English,5,26
+2014,1,Ukraine,Mariya Yaremchuk,"""Tick-Tock""",English,113,6
+2014,2,Belarus,Teo,"""Cheesecake""",English,43,16
+2014,3,Azerbaijan,Dilara Kazimova,"""Start a Fire""",English,33,22
+2014,4,Iceland,Pollapönk,"""No Prejudice""",English,58,15
+2014,5,Norway,Carl Espen,"""Silent Storm""",English,88,8
+2014,6,Romania,Paula Seling and Ovi,"""Miracle""",English,72,12
+2014,7,Armenia,Aram Mp3,"""Not Alone""",English,174,4
+2014,8,Montenegro,Sergej Ćetković,"""Moj svijet"" (Мој свијет)",Montenegrin,37,19
+2014,9,Poland,Donatan and Cleo,"""My Słowianie – We Are Slavic""","Polish, English",62,14
+2014,10,Greece,Freaky Fortune feat. RiskyKidd,"""Rise Up""",English,35,20
+2014,11,Austria,Conchita Wurst,"""Rise Like a Phoenix""",English,290,1
+2014,12,Germany,Elaiza,"""Is It Right""",English,39,18
+2014,13,Sweden,Sanna Nielsen,"""Undo""",English,218,3
+2014,14,France,Twin Twin,"""Moustache""",French,2,26
+2014,15,Russia,Tolmachevy Sisters,"""Shine""",English,89,7
+2014,16,Italy,Emma,"""La mia città""",Italian,33,21
+2014,17,Slovenia,Tinkara Kovač,"""Round and Round""","English, Slovene",9,25
+2014,18,Finland,Softengine,"""Something Better""",English,72,11
+2014,19,Spain,Ruth Lorenzo,"""Dancing in the Rain""","English, Spanish",74,10
+2014,20,Switzerland,Sebalter,"""Hunter of Stars""",English,64,13
+2014,21,Hungary,András Kállay-Saunders,"""Running""",English,143,5
+2014,22,Malta,Firelight,"""Coming Home""",English,32,23
+2014,23,Denmark,Basim,"""Cliche Love Song""",English,74,9
+2014,24,Netherlands,The Common Linnets,"""Calm After the Storm""",English,238,2
+2014,25,San Marino,Valentina Monetta,"""Maybe""",English,14,24
+2014,26,United Kingdom,Molly,"""Children of the Universe""",English,40,17
+2015,1,Slovenia,Maraaya,"""Here for You""",English,39,14
+2015,2,France,Lisa Angell,"""N'oubliez pas""",French,4,25
+2015,3,Israel,Nadav Guedj,"""Golden Boy""",English,97,9
+2015,4,Estonia,Elina Born and Stig Rästa,"""Goodbye to Yesterday""",English,106,7
+2015,5,United Kingdom,Electro Velvet,"""Still in Love with You""",English,5,24
+2015,6,Armenia,Genealogy,"""Face the Shadow""",English,34,16
+2015,7,Lithuania,Monika Linkytė and Vaidas Baumila,"""This Time""",English,30,18
+2015,8,Serbia,Bojana Stamenov,"""Beauty Never Lies""",English,53,10
+2015,9,Norway,Mørland and Debrah Scarlett,"""A Monster Like Me""",English,102,8
+2015,10,Sweden,Måns Zelmerlöw,"""Heroes""",English,365,1
+2015,11,Cyprus,John Karayiannis,"""One Thing I Should Have Done""",English,11,22
+2015,12,Australia,Guy Sebastian,"""Tonight Again""",English,196,5
+2015,13,Belgium,Loïc Nottet,"""Rhythm Inside""",English,217,4
+2015,14,Austria,The Makemakes,"""I Am Yours""",English,0,26
+2015,15,Greece,Maria Elena Kyriakou,"""One Last Breath""",English,23,19
+2015,16,Montenegro,Knez,"""Adio"" (Адио)",Montenegrin,44,13
+2015,17,Germany,Ann Sophie,"""Black Smoke""",English,0,27
+2015,18,Poland,Monika Kuszyńska,"""In the Name of Love""",English,10,23
+2015,19,Latvia,Aminata,"""Love Injected""",English,186,6
+2015,20,Romania,Voltaj,"""De la capăt""","Romanian, English",35,15
+2015,21,Spain,Edurne,"""Amanecer""",Spanish,15,21
+2015,22,Hungary,Boggie,"""Wars for Nothing""",English,19,20
+2015,23,Georgia,Nina Sublatti,"""Warrior""",English,51,11
+2015,24,Azerbaijan,Elnur Hüseynov,"""Hour of the Wolf""",English,49,12
+2015,25,Russia,Polina Gagarina,"""A Million Voices""",English,303,2
+2015,26,Albania,Elhaida Dani,"""I'm Alive""",English,34,17
+2015,27,Italy,Il Volo,"""Grande amore""",Italian,292,3
+2016,1,Belgium,Laura Tesoro,"""What's the Pressure""",English,181,10
+2016,2,Czech Republic,Gabriela Gunčíková,"""I Stand""",English,41,25
+2016,3,Netherlands,Douwe Bob,"""Slow Down""",English,153,11
+2016,4,Azerbaijan,Samra,"""Miracle""",English,117,17
+2016,5,Hungary,Freddie,"""Pioneer""",English,108,19
+2016,6,Italy,Francesca Michielin,"""No Degree of Separation""","Italian, English",124,16
+2016,7,Israel,Hovi Star,"""Made of Stars""",English,135,14
+2016,8,Bulgaria,Poli Genova,"""If Love Was a Crime""","English, Bulgarian",307,4
+2016,9,Sweden,Frans,"""If I Were Sorry""",English,261,5
+2016,10,Germany,Jamie-Lee,"""Ghost""",English,11,26
+2016,11,France,Amir,"""J'ai cherché""","French, English",257,6
+2016,12,Poland,Michał Szpak,"""Color of Your Life""",English,229,8
+2016,13,Australia,Dami Im,"""Sound of Silence""",English,511,2
+2016,14,Cyprus,Minus One,"""Alter Ego""",English,96,21
+2016,15,Serbia,Sanja Vučić ZAA,"""Goodbye (Shelter)""",English,115,18
+2016,16,Lithuania,Donny Montell,"""I've Been Waiting for This Night""",English,200,9
+2016,17,Croatia,Nina Kraljić,"""Lighthouse""",English,73,23
+2016,18,Russia,Sergey Lazarev,"""You Are the Only One""",English,491,3
+2016,19,Spain,Barei,"""Say Yay!""",English,77,22
+2016,20,Latvia,Justs,"""Heartbeat""",English,132,15
+2016,21,Ukraine,Jamala,"""1944""","English, Crimean Tatar",534,1
+2016,22,Malta,Ira Losco,"""Walk on Water""",English,153,12
+2016,23,Georgia,Nika Kocharov and Young Georgian Lolitaz,"""Midnight Gold""",English,104,20
+2016,24,Austria,Zoë,"""Loin d'ici""",French,151,13
+2016,25,United Kingdom,Joe and Jake,"""You're Not Alone""",English,62,24
+2016,26,Armenia,Iveta Mukuchyan,"""LoveWave""",English,249,7
+2017,1,Israel,Imri,"""I Feel Alive""",English,39,23
+2017,2,Poland,Kasia Moś,"""Flashlight""",English,64,22
+2017,3,Belarus,Naviband,"""Story of My Life""",Belarusian,83,17
+2017,4,Austria,Nathan Trent,"""Running on Air""",English,93,16
+2017,5,Armenia,Artsvik,"""Fly with Me""",English,79,18
+2017,6,Netherlands,OG3NE,"""Lights and Shadows""",English,150,11
+2017,7,Moldova,SunStroke Project,"""Hey Mamma""",English,374,3
+2017,8,Hungary,Joci Pápai,"""Origo""",Hungarian,200,8
+2017,9,Italy,Francesco Gabbani,"""Occidentali's Karma""",Italian,334,6
+2017,10,Denmark,Anja Nissen,"""Where I Am""",English,77,20
+2017,11,Portugal,Salvador Sobral,"""Amar pelos dois""",Portuguese,758,1
+2017,12,Azerbaijan,Dihaj,"""Skeletons""",English,120,14
+2017,13,Croatia,Jacques Houdek,"""My Friend""","English, Italian",128,13
+2017,14,Australia,Isaiah,"""Don't Come Easy""",English,173,9
+2017,15,Greece,Demy,"""This Is Love""",English,77,19
+2017,16,Spain,Manel Navarro,"""Do It for Your Lover""","Spanish, English",5,26
+2017,17,Norway,Jowst,"""Grab the Moment""",English,158,10
+2017,18,United Kingdom,Lucie Jones,"""Never Give Up on You""",English,111,15
+2017,19,Cyprus,Hovig,"""Gravity""",English,68,21
+2017,20,Romania,Ilinca feat. Alex Florea,"""Yodel It!""",English,282,7
+2017,21,Germany,Levina,"""Perfect Life""",English,6,25
+2017,22,Ukraine,O.Torvald,"""Time""",English,36,24
+2017,23,Belgium,Blanche,"""City Lights""",English,363,4
+2017,24,Sweden,Robin Bengtsson,"""I Can't Go On""",English,344,5
+2017,25,Bulgaria,Kristian Kostov,"""Beautiful Mess""",English,615,2
+2017,26,France,Alma,"""Requiem""","French, English",135,12
+2018,1,Ukraine,Mélovin,"""Under the Ladder""",English,130,17
+2018,2,Spain,Amaia and Alfred,"""Tu canción""",Spanish,61,23
+2018,3,Slovenia,Lea Sirk,"""Hvala, ne!""",Slovene,64,22
+2018,4,Lithuania,Ieva Zasimauskaitė,"""When We're Old""",English,181,12
+2018,5,Austria,Cesár Sampson,"""Nobody but You""",English,342,3
+2018,6,Estonia,Elina Nechayeva,"""La forza""",Italian,245,8
+2018,7,Norway,Alexander Rybak,"""That's How You Write a Song""",English,144,15
+2018,8,Portugal,Cláudia Pascoal,"""O jardim""",Portuguese,39,26
+2018,9,United Kingdom,SuRie,"""Storm""",English,48,24
+2018,10,Serbia,Sanja Ilić and Balkanika,"""Nova deca"" (Нова деца)",Serbian,113,19
+2018,11,Germany,Michael Schulte,"""You Let Me Walk Alone""",English,340,4
+2018,12,Albania,Eugent Bushpepa,"""Mall""",Albanian,184,11
+2018,13,France,Madame Monsieur,"""Mercy""",French,173,13
+2018,14,Czech Republic,Mikolas Josef,"""Lie to Me""",English,281,6
+2018,15,Denmark,Rasmussen,"""Higher Ground""",English,226,9
+2018,16,Australia,Jessica Mauboy,"""We Got Love""",English,99,20
+2018,17,Finland,Saara Aalto,"""Monsters""",English,46,25
+2018,18,Bulgaria,Equinox,"""Bones""",English,166,14
+2018,19,Moldova,DoReDoS,"""My Lucky Day""",English,209,10
+2018,20,Sweden,Benjamin Ingrosso,"""Dance You Off""",English,274,7
+2018,21,Hungary,AWS,"""Viszlát nyár""",Hungarian,93,21
+2018,22,Israel,Netta,"""Toy""",English,529,1
+2018,23,Netherlands,Waylon,"""Outlaw in 'Em""",English,121,18
+2018,24,Ireland,Ryan O'Shaughnessy,"""Together""",English,136,16
+2018,25,Cyprus,Eleni Foureira,"""Fuego""",English,436,2
+2018,26,Italy,Ermal Meta and Fabrizio Moro,"""Non mi avete fatto niente""",Italian,308,5
+2019,1,Malta,Michela,"""Chameleon""",English,107,14
+2019,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,17
+2019,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,11
+2019,4,Germany,S!sters,"""Sister""",English,24,25
+2019,5,Russia,Sergey Lazarev,"""Scream""",English,370,3
+2019,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,12
+2019,7,San Marino,Serhat,"""Say Na Na Na""",English,77,19
+2019,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,7
+2019,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,5
+2019,10,Slovenia,Zala Kralj and Gašper Šantl,"""Sebi""",Slovene,105,15
+2019,11,Cyprus,Tamta,"""Replay""",English,109,13
+2019,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,1
+2019,13,Greece,Katerine Duska,"""Better Love""",English,74,21
+2019,14,Israel,Kobi Marimi,"""Home""",English,35,23
+2019,15,Norway,Keiino,"""Spirit in the Sky""","English, Northern Sámi",331,6
+2019,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,26
+2019,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,10
+2019,18,Estonia,Victor Crone,"""Storm""",English,76,20
+2019,19,Belarus,Zena,"""Like It""",English,31,24
+2019,20,Azerbaijan,Chingiz,"""Truth""",English,302,8
+2019,21,France,Bilal Hassani,"""Roi""","French, English",105,16
+2019,22,Italy,Mahmood,"""Soldi""",Italian,472,2
+2019,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,18
+2019,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,4
+2019,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,9
+2019,26,Spain,Miki,"""La venda""",Spanish,54,22
+2021,1,Cyprus,Elena Tsagrinou,"""El Diablo""",English,94,16
+2021,2,Albania,Anxhela Peristeri,"""Karma""",Albanian,57,21
+2021,3,Israel,Eden Alene,"""Set Me Free""",English,93,17
+2021,4,Belgium,Hooverphonic,"""The Wrong Place""",English,74,19
+2021,5,Russia,Manizha,"""Russian Woman""","Russian, English",204,9
+2021,6,Malta,Destiny,"""Je me casse""",English,255,7
+2021,7,Portugal,The Black Mamba,"""Love Is on My Side""",English,153,12
+2021,8,Serbia,Hurricane,"""Loco Loco""",Serbian,102,15
+2021,9,United Kingdom,James Newman,"""Embers""",English,0,26
+2021,10,Greece,Stefania,"""Last Dance""",English,170,10
+2021,11,Switzerland,Gjon's Tears,"""Tout l'univers""",French,432,3
+2021,12,Iceland,Daði og Gagnamagnið,"""10 Years""",English,378,4
+2021,13,Spain,Blas Cantó,"""Voy a quedarme""",Spanish,6,24
+2021,14,Moldova,Natalia Gordienko,"""Sugar""",English,115,13
+2021,15,Germany,Jendrik,"""I Don't Feel Hate""",English,3,25
+2021,16,Finland,Blind Channel,"""Dark Side""",English,301,6
+2021,17,Bulgaria,Victoria,"""Growing Up Is Getting Old""",English,170,11
+2021,18,Lithuania,The Roop,"""Discoteque""",English,220,8
+2021,19,Ukraine,Go_A,"""Shum"" (Шум)",Ukrainian,364,5
+2021,20,France,Barbara Pravi,"""Voilà""",French,499,2
+2021,21,Azerbaijan,Efendi,"""Mata Hari""",English,65,20
+2021,22,Norway,Tix,"""Fallen Angel""",English,75,18
+2021,23,Netherlands,Jeangu Macrooy,"""Birth of a New Age""","English, Sranan Tongo",11,23
+2021,24,Italy,Måneskin,"""Zitti e buoni""",Italian,524,1
+2021,25,Sweden,Tusse,"""Voices""",English,109,14
+2021,26,San Marino,Senhit,"""Adrenalina""",English,50,22
+2022,1,Czech Republic,We Are Domi,"""Lights Off""",English,38,22
+2022,2,Romania,WRS,"""Llámame""","English, Spanish",65,18
+2022,3,Portugal,Maro,"""Saudade, saudade""","English, Portuguese",207,9
+2022,4,Finland,The Rasmus,"""Jezebel""",English,38,21
+2022,5,Switzerland,Marius Bear,"""Boys Do Cry""",English,78,17
+2022,6,France,Alvan and Ahez,"""Fulenn""",Breton,17,24
+2022,7,Norway,Subwoolfer,"""Give That Wolf a Banana""",English,182,10
+2022,8,Armenia,Rosa Linn,"""Snap""",English,61,20
+2022,9,Italy,Mahmood and Blanco,"""Brividi""",Italian,268,6
+2022,10,Spain,Chanel,"""SloMo""","Spanish, English",459,3
+2022,11,Netherlands,S10,"""De diepte""",Dutch,171,11
+2022,12,Ukraine,Kalush Orchestra,"""Stefania"" (Стефанія)",Ukrainian,631,1
+2022,13,Germany,Malik Harris,"""Rockstars""",English,6,25
+2022,14,Lithuania,Monika Liu,"""Sentimentai""",Lithuanian,128,14
+2022,15,Azerbaijan,Nadir Rustamli,"""Fade to Black""",English,106,16
+2022,16,Belgium,Jérémie Makiese,"""Miss You""",English,64,19
+2022,17,Greece,Amanda Georgiadi Tenfjord,"""Die Together""",English,215,8
+2022,18,Iceland,Systur,"""Með hækkandi sól""",Icelandic,20,23
+2022,19,Moldova,Zdob și Zdub and Advahov Brothers,"""Trenulețul""","Romanian, English",253,7
+2022,20,Sweden,Cornelia Jakobs,"""Hold Me Closer""",English,438,4
+2022,21,Australia,Sheldon Riley,"""Not the Same""",English,125,15
+2022,22,United Kingdom,Sam Ryder,"""Space Man""",English,466,2
+2022,23,Poland,Ochman,"""River""",English,151,12
+2022,24,Serbia,Konstrakta,"""In corpore sano""","Serbian, Latin",312,5
+2022,25,Estonia,Stefan,"""Hope""",English,141,13
