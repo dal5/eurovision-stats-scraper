@@ -3,15 +3,15 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1956,2,Switzerland,Lys Assia,"""Das alte Karussell""",German
 1956,3,Belgium,Fud Leclerc,"""Messieurs les noyés de la Seine""",French
 1956,4,Germany,Walter Andreas Schwarz,"""Im Wartesaal zum großen Glück""",German
-1956,5,France,Mathé Altéry,"""Le temps perdu""",French
+1956,5,France,Mathé Altéry,"""Le Temps perdu""",French
 1956,6,Luxembourg,Michèle Arnaud,"""Ne crois pas""",French
 1956,7,Italy,Franca Raimondi,"""Aprite le finestre""",Italian
 1956,8,Netherlands,Corry Brokken,"""Voorgoed voorbij""",Dutch
 1956,9,Switzerland,Lys Assia,"""Refrain""",French
-1956,10,Belgium,Mony Marc,"""Le plus beau jour de ma vie""",French
+1956,10,Belgium,Mony Marc,"""Le Plus beau jour de ma vie""",French
 1956,11,Germany,Freddy Quinn,"""So geht das jede Nacht""",German
 1956,12,France,Dany Dauberson,"""Il est là""",French
-1956,13,Luxembourg,Michèle Arnaud,"""Les amants de minuit""",French
+1956,13,Luxembourg,Michèle Arnaud,"""Les Amants de minuit""",French
 1956,14,Italy,Tonina Torrielli,"""Amami se vuoi""",Italian
 1957,1,Belgium,Bobbejaan Schoepen,"""Straatdeuntje""",Dutch,5,8
 1957,2,Luxembourg,Danièle Dupré,"""Amours mortes (tant de peine)""",French,8,4
@@ -20,9 +20,9 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1957,5,Austria,Bob Martin,"""Wohin, kleines Pony?""",German,3,10
 1957,6,Netherlands,Corry Brokken,"""Net als toen""",Dutch,31,1
 1957,7,Germany,Margot Hielscher,"""Telefon, Telefon""",German,8,4
-1957,8,France,Paule Desjardins,"""La belle amour""",French,17,2
+1957,8,France,Paule Desjardins,"""La Belle amour""",French,17,2
 1957,9,Denmark,Birthe Wilke and Gustav Winckler,"""Skibet skal sejle i nat""",Danish,10,3
-1957,10,Switzerland,Lys Assia,"""L'enfant que j'étais""",French,5,8
+1957,10,Switzerland,Lys Assia,"""L'Enfant que j'étais""",French,5,8
 1958,1,Italy,Domenico Modugno,"""Nel blu, dipinto di blu""",Italian,13,3
 1958,2,Netherlands,Corry Brokken,"""Heel de wereld""",Dutch,1,9
 1958,3,France,André Claveau,"""Dors, mon amour""",French,27,1
@@ -83,7 +83,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1962,8,Netherlands,De Spelbrekers,"""Katinka""",Dutch,0,13
 1962,9,France,Isabelle Aubret,"""Un premier amour""",French,26,1
 1962,10,Norway,Inger Jacobsen,"""Kom sol, kom regn""",Norwegian,2,10
-1962,11,Switzerland,Jean Philippe,"""Le retour""",French,2,10
+1962,11,Switzerland,Jean Philippe,"""Le Retour""",French,2,10
 1962,12,Yugoslavia,Lola Novaković,"""Ne pali svetla u sumrak"" (Не пали светла у сумрак)",Serbo-Croatian,10,4
 1962,13,United Kingdom,Ronnie Carroll,"""Ring-a-Ding Girl""",English,10,4
 1962,14,Luxembourg,Camillo Felgen,"""Petit bonhomme""",French,11,3
@@ -103,7 +103,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1963,12,Spain,José Guardiola,"""Algo prodigioso""",Spanish,2,12
 1963,13,Sweden,Monica Zetterlund,"""En gång i Stockholm""",Swedish,0,13
 1963,14,Belgium,Jacques Raymond,"""Waarom?""",Dutch,4,10
-1963,15,Monaco,Françoise Hardy,"""L'amour s'en va""",French,25,5
+1963,15,Monaco,Françoise Hardy,"""L'Amour s'en va""",French,25,5
 1963,16,Luxembourg,Nana Mouskouri,"""À force de prier""",French,13,8
 1964,1,Luxembourg,Hugues Aufray,"""Dès que le printemps revient""",French,14,4
 1964,2,Netherlands,Anneke Grönloh,"""Jij bent mijn leven""",Dutch,2,10
@@ -158,7 +158,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1966,17,Ireland,Dickie Rock,"""Come Back to Stay""",English,14,4
 1966,18,United Kingdom,Kenneth McKellar,"""A Man Without Love""",English,8,9
 1967,1,Netherlands,Thérèse Steinmetz,"""Ring-dinge-ding""",Dutch,2,14
-1967,2,Luxembourg,Vicky,"""L'amour est bleu""",French,17,4
+1967,2,Luxembourg,Vicky,"""L'Amour est bleu""",French,17,4
 1967,3,Austria,Peter Horten,"""Warum es hunderttausend Sterne gibt""",German,2,14
 1967,4,France,Noëlle Cordier,"""Il doit faire beau là-bas""",French,20,3
 1967,5,Portugal,Eduardo Nascimento,"""O vento mudou""",Portuguese,3,12
@@ -183,7 +183,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1968,7,Monaco,Line and Willy,"""À chacun sa chanson""",French,8,7
 1968,8,Sweden,Claes-Göran Hederström,"""Det börjar verka kärlek, banne mig""",Swedish,15,5
 1968,9,Finland,Kristina Hautala,"""Kun kello käy""",Finnish,1,16
-1968,10,France,Isabelle Aubret,"""La source""",French,20,3
+1968,10,France,Isabelle Aubret,"""La Source""",French,20,3
 1968,11,Italy,Sergio Endrigo,"""Marianne""",Italian,7,10
 1968,12,United Kingdom,Cliff Richard,"""Congratulations""",English,28,2
 1968,13,Norway,Odd Børre,"""Stress""",Norwegian,2,13
@@ -343,21 +343,21 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1977,15,Italy,Mia Martini,"""Libera""",Italian,33,13
 1977,16,Finland,Monica Aspelund,"""Lapponia""",Finnish,50,10
 1977,17,Belgium,Dream Express,"""A Million in One, Two, Three""",English,69,7
-1977,18,France,Marie Myriam,"""L'oiseau et l'enfant""",French,136,1
+1977,18,France,Marie Myriam,"""L'Oiseau et l'Enfant""",French,136,1
 1978,1,Ireland,Colm C. T. Wilkinson,"""Born to Sing""",English,86,5
 1978,2,Norway,Jahn Teigen,"""Mil etter mil""",Norwegian,0,20
 1978,3,Italy,Ricchi e Poveri,"""Questo amore""",Italian,53,12
-1978,4,Finland,Seija Simola,"""Anna rakkaudelle tilaisuus""",Finnish,2,18=
+1978,4,Finland,Seija Simola,"""Anna rakkaudelle tilaisuus""",Finnish,2,18
 1978,5,Portugal,Gemini,"""Dai li dou""",Portuguese,5,17
 1978,6,France,Joël Prévost,"""Il y aura toujours des violons""",French,119,3
-1978,7,Spain,José Vélez,"""Bailemos un vals""",Spanish,65,9=
+1978,7,Spain,José Vélez,"""Bailemos un vals""",Spanish,65,9
 1978,8,United Kingdom,Co-Co,"""The Bad Old Days""",English,61,11
-1978,9,Switzerland,Carole Vinci,"""Vivre""",French,65,9=
-1978,10,Belgium,Jean Vallée,"""L'amour ça fait chanter la vie""",French,125,2
+1978,9,Switzerland,Carole Vinci,"""Vivre""",French,65,9
+1978,10,Belgium,Jean Vallée,"""L'Amour ça fait chanter la vie""",French,125,2
 1978,11,Netherlands,Harmony,"""'t Is OK""",Dutch,37,13
-1978,12,Turkey,Nilüfer and Nazar,"""Sevince""",Turkish,2,18=
+1978,12,Turkey,Nilüfer and Nazar,"""Sevince""",Turkish,2,18
 1978,13,Germany,Ireen Sheer,"""Feuer""",German,84,6
-1978,14,Monaco,Caline and Olivier Toussaint,"""Les jardins de Monaco""",French,107,4
+1978,14,Monaco,Caline and Olivier Toussaint,"""Les Jardins de Monaco""",French,107,4
 1978,15,Greece,Tania Tsanaklidou,"""Charlie Chaplin"" (Τσάρλυ Τσάπλιν)",Greek,66,8
 1978,16,Denmark,Mabel,"""Boom Boom""",Danish,13,16
 1978,17,Luxembourg,Baccara,"""Parlez-vous français ?""",French,73,7
@@ -498,7 +498,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1985,17,Austria,Gary Lux,"""Kinder dieser Welt""",German,60,8
 1985,18,Luxembourg,"Margo, Franck Olivier, Diane Solomon,Ireen Sheer, Malcolm Roberts and Chris Roberts","""Children, Kinder, Enfants""","French, German, English",37,13
 1985,19,Greece,Takis Biniaris,"""Miazoume"" (Μοιάζουμε)",Greek,15,16
-1986,1,Luxembourg,Sherisse Laurence,"""L'amour de ma vie""",French,117,3
+1986,1,Luxembourg,Sherisse Laurence,"""L'Amour de ma vie""",French,117,3
 1986,2,Yugoslavia,Doris Dragović,"""Željo moja"" (Жељо моја)",Serbo-Croatian,49,11
 1986,3,France,Cocktail Chic,"""Européennes""",French,13,17
 1986,4,Norway,Ketil Stokkan,"""Romeo""",Norwegian,44,12
@@ -532,7 +532,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1987,12,Netherlands,Marcha,"""Rechtop in de wind""",Dutch,83,5
 1987,13,Luxembourg,Plastic Bertrand,"""Amour, amour""",French,4,21
 1987,14,United Kingdom,Rikki,"""Only the Light""",English,47,13
-1987,15,France,Christine Minier,"""Les mots d'amour n'ont pas de dimanche""",French,44,14
+1987,15,France,Christine Minier,"""Les Mots d'amour n'ont pas de dimanche""",French,44,14
 1987,16,Germany,Wind,"""Laß die Sonne in dein Herz""",German,141,2
 1987,17,Cyprus,Alexia,"""Aspro mavro"" (Άσπρο μαύρο)",Greek,80,7
 1987,18,Finland,Vicky Rosti and Boulevard,"""Sata salamaa""",Finnish,32,15
@@ -632,7 +632,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1992,3,Israel,Dafna,"""Ze Rak Sport"" (זה רק ספורט)",Hebrew,85,6
 1992,4,Turkey,Aylin Vatankoş,"""Yaz Bitti""",Turkish,17,19
 1992,5,Greece,Cleopatra,"""Olou tou kosmou i Elpida"" (Όλου του κόσμου η Ελπίδα)",Greek,94,5
-1992,6,France,Kali,Monte la riviè ,"French, Antillean Creole",73,8
+1992,6,France,Kali,"""Monte la riviè""","French, Antillean Creole",73,8
 1992,7,Sweden,Christer Björkman,"""I morgon är en annan dag""",Swedish,9,22
 1992,8,Portugal,Dina,"""Amor d'água fresca""",Portuguese,26,17
 1992,9,Cyprus,Evridiki,"""Teriazoume"" (Ταιριάζουμε)",Greek,57,11
@@ -713,7 +713,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1995,11,Croatia,Magazin and Lidija,"""Nostalgija""",Croatian,91,6
 1995,12,France,Nathalie Santamaria,"""Il me donne rendez-vous""",French,94,4
 1995,13,Hungary,Csaba Szigeti,"""Új név egy régi ház falán""",Hungarian,3,22
-1995,14,Belgium,Frédéric Etherlinck,"""La voix est libre""",French,8,20
+1995,14,Belgium,Frédéric Etherlinck,"""La Voix est libre""",French,8,20
 1995,15,United Kingdom,Love City Groove,"""Love City Groove""",English,76,10
 1995,16,Portugal,Tó Cruz,"""Baunilha e chocolate""",Portuguese,5,21
 1995,17,Cyprus,Alexandros Panayi,"""Sti fotia"" (Στη φωτιά)",Greek,79,9
@@ -730,7 +730,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1996,5,Cyprus,Constantinos,"""Mono gia mas"" (Μόνο για μας)",Greek,72,9
 1996,6,Malta,Miriam Christine,"""In a Woman's Heart""",English,68,10
 1996,7,Croatia,Maja Blagdan,"""Sveta ljubav""",Croatian,98,4
-1996,8,Austria,George Nussbaumer,"""Weil's dr guat got""",Vorarlbergish,68,10
+1996,8,Austria,George Nussbaumer,"""Weil's dr guat got""",German,68,10
 1996,9,Switzerland,Kathy Leander,"""Mon cœur l'aime""",French,22,16
 1996,10,Greece,Marianna Efstratiou,"""Emis forame to himona anixiatika""(Εμείς φοράμε το χειμώνα ανοιξιάτικα)",Greek,36,14
 1996,11,Estonia,Maarja-Liis Ilus and Ivo Linna,"""Kaelakee hääl""",Estonian,94,5
@@ -803,7 +803,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 1999,5,United Kingdom,Precious,"""Say It Again""",English,38,12
 1999,6,Slovenia,Darja Švajger,"""For a Thousand Years""",English,50,11
 1999,7,Turkey,Tuba Önal and Grup Mistik,"""Dön Artık""",Turkish,21,16
-1999,8,Norway,Stig Van Eijk,"""Living My Life Without You""",English,35,14
+1999,8,Norway,Stig van Eijk,"""Living My Life Without You""",English,35,14
 1999,9,Denmark,Trine Jepsen and Michael Teschl,"""This Time I Mean It""",English,71,8
 1999,10,France,Nayah,"""Je veux donner ma voix""",French,14,19
 1999,11,Netherlands,Marlayne,"""One Good Reason""",English,71,8
@@ -922,7 +922,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 2004,4,France,Jonatan Cerrada,"""À chaque pas""","French, Spanish",40,15
 2004,5,Serbia and Montenegro,Željko Joksimović and Ad-Hoc Orchestra,"""Lane moje"" (Лане моје)",Serbian,263,2
 2004,6,Malta,Julie and Ludwig,"""On Again... Off Again""",English,50,12
-2004,7,Netherlands,Re-Union,"""Without You""",English,11,20
+2004,7,Netherlands,Re-union,"""Without You""",English,11,20
 2004,8,Germany,Max,"""Can't Wait Until Tonight""","English, Turkish",93,8
 2004,9,Albania,Anjeza Shahini,"""The Image of You""",English,106,7
 2004,10,Ukraine,Ruslana,"""Wild Dances""","English, Ukrainian",280,1
@@ -1000,7 +1000,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 2007,10,Greece,Sarbel,"""Yassou Maria"" (Γεια σου Μαρία)",English,139,7
 2007,11,Georgia,Sopho,"""Visionary Dream""",English,97,12
 2007,12,Sweden,The Ark,"""The Worrying Kind""",English,51,18
-2007,13,France,Les Fatals Picards,"""L'amour à la française""","French, English (""Franglais"")",19,22
+2007,13,France,Les Fatals Picards,"""L'Amour à la française""","French, English (""Franglais"")",19,22
 2007,14,Latvia,Bonaparti.lv,"""Questa notte""",Italian,54,16
 2007,15,Russia,Serebro,"""Song #1""",English,207,3
 2007,16,Germany,Roger Cicero,"""Frauen regier'n die Welt""","German, English",49,19
@@ -1040,7 +1040,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 2009,1,Lithuania,Sasha Son,"""Love""","English, Russian",23,23
 2009,2,Israel,Noa and Mira Awad,"""There Must Be Another Way""","English, Hebrew, Arabic",53,16
 2009,3,France,Patricia Kaas,"""Et s'il fallait le faire""",French,107,8
-2009,4,Sweden,Malena Ernman,"""La voix""","English, French",33,21
+2009,4,Sweden,Malena Ernman,"""La Voix""","English, French",33,21
 2009,5,Croatia,Igor Cukrov feat. Andrea,"""Lijepa Tena""",Croatian,45,18
 2009,6,Portugal,Flor-de-Lis,"""Todas as ruas do amor""",Portuguese,57,15
 2009,7,Iceland,Yohanna,"""Is It True?""",English,218,2
@@ -1063,7 +1063,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 2009,24,Finland,Waldo's People,"""Lose Control""",English,22,25
 2009,25,Spain,Soraya Arnelas,"""La noche es para mí""","Spanish, English",23,24
 2010,1,Azerbaijan,Safura,"""Drip Drop""",English,145,5
-2010,2[d],Spain,Daniel Diges,"""Algo pequeñito""",Spanish,68,15
+2010,2,Spain,Daniel Diges,"""Algo pequeñito""",Spanish,68,15
 2010,3,Norway,Didrik Solli-Tangen,"""My Heart Is Yours""",English,35,20
 2010,4,Moldova,SunStroke Project and Olia Tira,"""Run Away""",English,27,22
 2010,5,Cyprus,Jon Lilygreen and the Islanders,"""Life Looks Better in Spring""",English,27,21
@@ -1138,7 +1138,7 @@ Contest Year,R/O,Country,Artist,Song,Language,Points,Place
 2012,24,Serbia,Željko Joksimović,"""Nije ljubav stvar"" (Није љубав ствар)",Serbian,214,3
 2012,25,Ukraine,Gaitana,"""Be My Guest""",English,65,15
 2012,26,Moldova,Pasha Parfeny,"""Lăutar""",English,81,11
-2013,1,France,Amandine Bourgeois,"""L'enfer et moi""",French,14,23
+2013,1,France,Amandine Bourgeois,"""L'Enfer et moi""",French,14,23
 2013,2,Lithuania,Andrius Pojavis,"""Something""",English,17,22
 2013,3,Moldova,Aliona Moon,"""O mie""",Romanian,71,11
 2013,4,Finland,Krista Siegfrids,"""Marry Me""",English,13,24
