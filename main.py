@@ -49,6 +49,9 @@ def scrape(year):
     for row in data_rows:
         running_order = row.find_all(scope="row")
         beautified_value = [ele.text.strip() for ele in running_order]
+        for item in beautified_value:
+            current_index = beautified_value.index(item)
+            beautified_value[current_index] = re.sub(r'\[.*\]', '', item)
         if len(beautified_value) == 0:
             continue
         running_order_rows.append(beautified_value)
