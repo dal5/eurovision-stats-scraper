@@ -2,12 +2,18 @@ import csv
 import re
 import requests
 from bs4 import BeautifulSoup
+import load_results_to_postgres
+
+output_postgres = True
 
 
 def go():
-    start_year =1956
+    start_year = 1956
     most_recent_year = 2022
     year_counter = start_year
+
+    if output_postgres:
+        load_results_to_postgres.create_tables()
 
     header = ['Contest Year', 'R/O', 'Country', 'Artist', 'Song', 'Language', 'Points', 'Place']
     with open('euro_pop.csv', 'a', newline="", encoding="utf-8") as output:
@@ -67,7 +73,7 @@ def scrape(year):
         # Remove any citations that have made it through
         for item in beautified_value:
             current_index = beautified_value.index(item)
-            beautified_value[current_index] = re.sub(r'\[.*\]', '', item)
+            beautified_value[current_index] = re.sub(r'\[.*\]', '', item).replace('"', '').replace("'", "")
 
         rows.append(beautified_value)
 
@@ -79,6 +85,9 @@ def scrape(year):
     with open('euro_pop.csv', 'a', newline="", encoding="utf-8") as output:
         writer = csv.writer(output)
         writer.writerows(rows)
+
+    if output_postgres:
+        load_results_to_postgres.load(rows)
 
 if __name__ == '__main__':
     go()
