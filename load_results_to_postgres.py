@@ -1,6 +1,10 @@
 import psycopg2
+import logging
+
+logging.getLogger().setLevel(logging.INFO)
 
 def create_connection():
+    logging.info("Create connection to database")
     connection = psycopg2.connect(
         database="XXX",
         user="XXX",
@@ -15,6 +19,8 @@ def create_connection():
 def create_tables():
     connection = create_connection()
     cursor = connection.cursor()
+
+    logging.info("Create tables")
 
     # Remove table if already exists
     sql = "DROP TABLE IF EXISTS eurovision_stats.finals"
@@ -48,12 +54,13 @@ def load(rows):
     connection = create_connection()
     cursor = connection.cursor()
 
+    logging.info("Insert rows")
+
     for row in rows:
         for item in row:
             item.replace("'", "''")
 
         sql = "INSERT INTO eurovision_stats.finals VALUES " + str(row).replace('[', '(').replace(']', ')')
-        print(sql)
         cursor.execute(sql)
 
     connection.close()
